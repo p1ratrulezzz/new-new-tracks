@@ -12,9 +12,11 @@ class JsonStorage(Storage):
         if "filename" not in self._options:
             raise RuntimeError("Filename option must be set")
 
-        self._last_exit_clean : bool = self.getSandboxData('last_exit_clean', True)
-        self.setSandboxData('counter', 1)
         self.readTracks()
+
+        self._last_exit_clean : bool = self.getSandboxData('last_exit_clean', True)
+        if self._last_exit_clean:
+            self.setSandboxData('counter', 1)
 
     def _getFilename(self):
         return self._options['filename']
