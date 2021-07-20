@@ -1,8 +1,8 @@
-# NRJ Hot 30
+# NRJ All tracks and new tracks
 
 ## Description
 
-This repo stores a table with positions in rating of tracks from NRJ (Energy) radio in Moscow
+This repo stores a table with all tracks on NRJ Radio in Russia.
 
-The HOT30 playlist is available on https://www.energyfm.ru/nrj_hot_30
+The new tracks are also available on https://www.energyfm.ru/new_tracks
 
