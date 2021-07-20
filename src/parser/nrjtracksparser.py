@@ -1,6 +1,7 @@
 from src.parser.parser import Parser
 from bs4 import BeautifulSoup, element, ResultSet
 import urllib3
+import re
 
 class NRJTracksParser(Parser):
     def __init__(self, url):
@@ -29,6 +30,7 @@ class NRJTracksParser(Parser):
 
         divEls: ResultSet = bs.select('.list.pr .new-track-next-name')
         divEl: element.Tag
+        re_compiled = re.compile('\/files\/([0-9]{4})([0-9]{2})\/', flags=re.IGNORECASE)
         for divEl in divEls:
             track_data = {}
             track_data['href'] = self._baseurl + '/' + divEl.parent['href'].lstrip('/')
@@ -38,7 +40,14 @@ class NRJTracksParser(Parser):
             track_data['title'] = self.clearTrackName(labels[-1])
             images = divEl.find_previous_siblings('img')
             if len(images) > 0:
-                track_data['image'] = images[0]['src']
+                imgsrc = images[0]['src']
+                track_data['image'] = imgsrc
+                matches = re_compiled.findall(imgsrc)
+                if len(matches) > 0:
+                    track_data['date'] = {
+                        'year': int(matches[0][0]),
+                        'month': int(matches[0][1])
+                    }
 
             tracks.append(track_data)
 

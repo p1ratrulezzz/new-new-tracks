@@ -46,9 +46,16 @@ class JsonStorage(Storage):
 
     def mergeTrack(self, newinfo, trackInfo):
         counter = self.getSandboxData('counter', 1)
+        sort_string = counter
+        date_info = newinfo['date'] if newinfo.get('date') else None
+        date_info = trackInfo['date'] if not date_info and trackInfo.get('date') else date_info
+        if date_info:
+            sort_string = str(date_info['year']) + str(date_info['month']).rjust(2, '0') + '_' + str(counter)
         newinfo['counter'] = counter
+        newinfo['sort_string'] = sort_string
         counter += 1
         self.setSandboxData('counter', counter)
+
         return super(JsonStorage, self).mergeTrack(newinfo, trackInfo)
 
     def save(self):

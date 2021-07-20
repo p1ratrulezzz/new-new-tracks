@@ -1,12 +1,13 @@
 from operator import itemgetter
+import calendar
 
 class ReadmeFormatter():
     def __init__(self, storage):
         self._storage = storage
 
     def render(self, filepath:str):
-        table = '||Track|\n'
-        table += '|---|--------|\n'
+        table = '||Track|Date|\n'
+        table += '|---|--------|---|\n'
         tracks_sorted = sorted(self._storage.getTracks().values(), key=itemgetter('counter'))
         for trackInfo in tracks_sorted:
             trackname = ''
@@ -21,9 +22,14 @@ class ReadmeFormatter():
             if trackInfo.get('href'):
                 link = '[{image}]({url})'.format(url = trackInfo['href'], image = image)
 
-            table += '|{linkimage}|{trackname}|\n'.format(
+            date = ' '
+            if trackInfo.get('date'):
+                date = str(trackInfo['date']['year']) + ', ' + calendar.month_name[trackInfo['date']['month']]
+
+            table += '|{linkimage}|{trackname}|{date}|\n'.format(
                 trackname = trackname,
-                linkimage = link
+                linkimage = link,
+                date = date
             )
 
         with open('template/readme_top.md') as readme_top_fp:
