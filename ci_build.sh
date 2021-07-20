@@ -23,8 +23,8 @@ git fetch origin
 git checkout -b master origin/master
 git pull origin master
 
-echo "Initializing spotify.yml"
-echo "${SPOTIFY_YML}" > spotify.yml
+#echo "Initializing spotify.yml"
+#echo "${SPOTIFY_YML}" > spotify.yml
 
 echo "Activating venv"
 source venv/bin/activate || exit 1

@@ -1,6 +1,7 @@
 from abc import ABC, abstractmethod
 import json
 import zlib
+from datetime import datetime, timezone
 
 class Storage(ABC):
     _tracks = {}
@@ -16,6 +17,9 @@ class Storage(ABC):
     def getTracks(self):
         return self._tracks
 
+    def mergeTrack(self, newinfo, trackInfo):
+        return {**newinfo, **trackInfo}
+
     def mergeTracks(self, newtracks):
         for trackInfo in newtracks:
             hash = self.hashTrack(trackInfo)
@@ -23,22 +27,10 @@ class Storage(ABC):
             if self._tracks.get(hash):
                 newinfo = self._tracks[hash]
             else:
-                if trackInfo.get("artist"):
-                    newinfo["artist"] = trackInfo["artist"]
-                    newinfo['artist_display'] = trackInfo["artist_display"]
-                newinfo['title'] = trackInfo['title']
+                newinfo['added'] = datetime.now(timezone.utc).isoformat(timespec='seconds')
 
-            if not newinfo.get("positions"):
-                newinfo['positions'] = []
+            newinfo = self.mergeTrack(newinfo, trackInfo)
 
-            if len(newinfo['positions']) == 0 or newinfo['positions'][-1]['value'] != trackInfo['position']:
-                newinfo['positions'].append({'value': trackInfo['position'], 'datetime': trackInfo['datetime']})
-
-            positions = []
-            for posInfo in newinfo['positions']:
-                positions.append(posInfo['value'])
-
-            newinfo['position_avg'] = sum(positions) / len(positions)
             self._tracks[hash] = newinfo
 
     @abstractmethod
