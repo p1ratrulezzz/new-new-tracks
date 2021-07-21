@@ -6,14 +6,16 @@ class Parser(ABC):
     def parseTracks(self):
         pass
 
-    def clearTrackName(self, trackName:str):
+    @staticmethod
+    def clearTrackName(trackName:str):
         trackName.strip("\r\n\t ")
         trackName = re.sub("[\u2013\u2014\u2015\u2012\u2E3B\u2E3A]+", "-", trackName, flags=re.IGNORECASE|re.UNICODE)
         trackName = re.sub("[\s\r\n\t]{2,}", " ", trackName, flags=re.IGNORECASE|re.UNICODE)
         return trackName
 
-    def clearArtistName(self, artistName:str):
-        artistName = self.clearTrackName(artistName)
+    @staticmethod
+    def clearArtistName(artistName:str):
+        artistName = Parser.clearTrackName(artistName)
         artists = []
         for artist in artistName.split('&'):
             artists.append(artist.strip('\r\n\t '))
@@ -24,7 +26,7 @@ class Parser(ABC):
         info = {"title": trackName}
         dashPos = trackName.rfind("-")
         if dashPos != -1:
-            info["artist"] = self.clearArtistName(trackName[:dashPos])
-            info["artist_display"] = trackName[:dashPos].strip('\r\n\t ')
+            info["artist_cleaned"] = self.clearArtistName(trackName[:dashPos])
+            info["artist"] = trackName[:dashPos].strip('\r\n\t ')
             info["title"] = trackName[dashPos+1:].strip("\r\n\t ")
         return info

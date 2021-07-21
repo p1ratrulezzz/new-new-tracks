@@ -1,5 +1,6 @@
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
+from src.parser.parser import Parser
 
 class SpotifyTagger():
     def __init__(self, client_id, client_secret):
@@ -16,7 +17,7 @@ class SpotifyTagger():
 
             artist = ''
             if trackInfo.get('artist'):
-                artist = str(trackInfo['artist']) + ' '
+                artist = Parser.clearArtistName(str(trackInfo['artist'])) + ' '
 
             for tries in range(0, 2):
                 q = artist
@@ -43,3 +44,9 @@ class SpotifyTagger():
 
             if trackInfo['spotify'].get('track') is None:
                     trackInfo['spotify']['track'] = ''
+
+    def createPlaylist(self, tracks:dict):
+        for trackInfo in tracks:
+            pass
+    def rebuildPlaylist(self, tracks:dict):
+        pass

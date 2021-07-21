@@ -1,10 +1,12 @@
 from src.parser.nrjtracksparser import NRJTracksParser
 from src.storage.jsonstorage import JsonStorage
 from constants import *
+from src.tagger.spotifytagger import SpotifyTagger
 from src.formatter.readmeformatter import ReadmeFormatter
 from datetime import datetime, timezone
 import dateutil.parser
 from urllib3.exceptions import TimeoutError, HTTPError
+from operator import itemgetter
 
 storage = JsonStorage(filename = JSON_FILENAME)
 
@@ -31,7 +33,6 @@ while (not finished):
             page += 1
             storage.mergeTracks(tracks)
             storage.setSandboxData('page', page)
-            #tagger.processTracks(storage.getTracks())
 
     except (TimeoutError, HTTPError):
         storage.setSandboxData('last_exit_clean', False)
@@ -43,6 +44,17 @@ while (not finished):
 
         storage.save()
 
+# Set tags
+tagger = SpotifyTagger(client_id=SPOTIFY.CLIENT_ID, client_secret=SPOTIFY.CLIENT_SECRET)
+tagger.processTracks(storage.getTracks())
+storage.save()
+
+# Create a playlist
+# if storage.getSandboxData('has_new_tracks', False) or is_full_parse:
+#     playlist_id = storage.getSandboxData('spotify_playlist_id')
+#     tracks_sorted = sorted(storage.getTracks(), key=itemgetter('sort_string'))
+#     if not playlist_id:
+#         playlist_id = tagger.createPlaylist()
 
 formatter = ReadmeFormatter(storage)
 formatter.render('README.md')

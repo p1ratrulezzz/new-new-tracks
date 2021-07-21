@@ -6,9 +6,13 @@ from datetime import datetime, timezone
 class Storage(ABC):
     _tracks = {}
     _options = {}
+    _sandbox = {}
+
     def __init__(self, **kwargs):
         for k in kwargs.keys():
             self._options[k] = kwargs[k]
+
+        self.delSandboxData('has_new_tracks')
 
     @abstractmethod
     def readTracks(self):
@@ -27,17 +31,31 @@ class Storage(ABC):
             if self._tracks.get(hash):
                 newinfo = self._tracks[hash]
             else:
+                self.setSandboxData('has_new_tracks', True)
                 newinfo['added'] = datetime.now(timezone.utc).isoformat(timespec='seconds')
 
             newinfo = self.mergeTrack(newinfo, trackInfo)
 
             self._tracks[hash] = newinfo
 
+    def delSandboxData(self, prop:str):
+        self.setSandboxData(prop, None)
+
+    def setSandboxData(self, prop:str, value):
+        if value is None:
+            self._sandbox.pop(prop, None)
+        else:
+            self._sandbox[prop] = value
+
+    def getSandboxData(self, prop:str, default = None):
+        return self._sandbox.get(prop) or default
+
     @abstractmethod
     def save(self):
         pass
 
-    def hashTrack(self, trackInfo:dict):
+    @staticmethod
+    def hashTrack(trackInfo:dict):
         data = []
         if trackInfo.get("artist"):
             data.append(trackInfo['artist'].lower())

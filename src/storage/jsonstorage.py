@@ -32,18 +32,6 @@ class JsonStorage(Storage):
 
                 fp.close()
 
-    def delSandboxData(self, prop:str):
-        self.setSandboxData(prop, None)
-
-    def setSandboxData(self, prop:str, value):
-        if value is None:
-            self._sandbox.pop(prop)
-        else:
-            self._sandbox[prop] = value
-
-    def getSandboxData(self, prop:str, default = None):
-        return self._sandbox.get(prop) or default
-
     def mergeTrack(self, newinfo, trackInfo):
         counter = self.getSandboxData('counter', 1)
         sort_string = counter
