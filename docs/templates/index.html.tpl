@@ -28,7 +28,7 @@
         </div>
     </div>
     <div class="row row-cols-2">
-        <div class="col-sm col-sm-1">
+        <div class="col-sm col-sm-1" style="max-width: 150px">
             <nav id="dates-navigation" class="navbar navbar-fixed-left sticky-top">
                 <nav class="nav navbar-dates">
                     % for item in tracks:
@@ -37,11 +37,11 @@
                 </nav>
             </nav>
         </div>
-        <div class="col-sm" data-spy="scroll" data-offset="0" data-target="#dates-navigation">
+        <div class="col-sm container-fluid" data-spy="scroll" data-offset="0" data-target="#dates-navigation">
             % for year_tracks in tracks:
                 <h4 id="index-year-${year_tracks['year']}">${year_tracks['year']}</h4>
                 % for item in year_tracks['tracks']:
-                    <div class="card mb-3" style="max-width: 540px;">
+                    <div class="card mb-3">
                     <div class="row g-0">
                         <div class="col-md-4">
                             <img src="${item['image']}" class="img-fluid rounded-start">
