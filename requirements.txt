@@ -3,3 +3,4 @@ urllib3
 spotipy
 pyyaml
 python-dateutil
+mako

@@ -1,0 +1,1 @@
+<iframe src="https://open.spotify.com/embed/track/${track['id']}?theme=0" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>

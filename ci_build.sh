@@ -34,7 +34,7 @@ echo "Parsing data and rebuild readme..."
 python3 rebuild_readme.py
 
 echo "Add to git"
-git add README.md resources
+git add README.md resources docs
 git commit -m"[skip-ci] CI update"
 git push -f origin master
 rm -f "${KEY_PATH_PUB}"
