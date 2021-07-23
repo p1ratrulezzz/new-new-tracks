@@ -13,7 +13,7 @@ class SpotifyTagger():
 
             # Do not process if there is already a spotify info
             if trackInfo['spotify'].get('track') is not None:
-                pass # @fixme
+                continue
 
             artist = ''
             if trackInfo.get('artist'):
