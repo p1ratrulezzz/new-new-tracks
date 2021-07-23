@@ -20,16 +20,28 @@ class SpotifyTagger():
                 artist = Parser.clearArtistName(str(trackInfo['artist'])) + ' '
 
             for tries in range(0, 2):
-                q = artist
-                q += trackInfo['title']
+                q = ''
+                artists = []
+                for artist_name in artist.split(','):
+                    artists.append('"' + artist_name.lower() + '"')
+
+                if len(artists) > 0:
+                    q += 'artist:' + ' '.join(artists) + ' '
+                q += 'track:' + trackInfo['title'].lower()
 
                 try:
-                    results = self._sp.search(q, limit=3, market='RU')
+                    results = self._sp.search(q, market='RU')
                 except Exception:
                     continue
 
                 if results.get('tracks') and results['tracks'].get('items'):
                     trackItem = results['tracks']['items'][0]
+                    for _trackItem in results['tracks']['items'][1:]:
+                        if len(_trackItem['artists']) == len(artists):
+                            trackItem = _trackItem
+                            break
+
+
                     trackInfo['spotify']['track'] = trackItem['uri']
                     trackInfo['spotify']['album'] = trackItem['album']['uri']
                     trackInfo['spotify']['image'] = trackItem['album']['images'][0]['url']
@@ -41,7 +53,7 @@ class SpotifyTagger():
                     break
                 elif trackInfo.get('artist'):
                     for char in [',', ' ']:
-                        artist = str(trackInfo['artist'])
+                        artist = Parser.clearArtistName(str(trackInfo['artist']))
                         lastSpacePos = artist.rfind(char)
                         if lastSpacePos != -1:
                             artist = artist[lastSpacePos + 1:] + ' '
