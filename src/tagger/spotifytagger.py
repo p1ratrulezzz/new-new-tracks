@@ -13,7 +13,7 @@ class SpotifyTagger():
 
             # Do not process if there is already a spotify info
             if trackInfo['spotify'].get('track') is not None:
-                continue
+                pass # @fixme
 
             artist = ''
             if trackInfo.get('artist'):
@@ -33,6 +33,11 @@ class SpotifyTagger():
                     trackInfo['spotify']['track'] = trackItem['uri']
                     trackInfo['spotify']['album'] = trackItem['album']['uri']
                     trackInfo['spotify']['image'] = trackItem['album']['images'][0]['url']
+                    if not trackInfo.get('date') and trackItem['album'].get('release_date'):
+                        trackInfo['date'] = {}
+                        release_date = trackItem['album']['release_date'].split('-')
+                        trackInfo['date']['year'] = release_date[0]
+                        trackInfo['date']['month'] = release_date[1] if release_date[1] else 1
                     break
                 elif trackInfo.get('artist'):
                     for char in [',', ' ']:
@@ -42,11 +47,9 @@ class SpotifyTagger():
                             artist = artist[lastSpacePos + 1:] + ' '
                             break
 
-            if trackInfo['spotify'].get('track') is None:
-                    trackInfo['spotify']['track'] = ''
-
     def createPlaylist(self, tracks:dict):
         for trackInfo in tracks:
             pass
+
     def rebuildPlaylist(self, tracks:dict):
         pass

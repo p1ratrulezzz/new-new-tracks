@@ -6,8 +6,6 @@ from src.formatter.readmeformatter import ReadmeFormatter
 from datetime import datetime, timezone
 import dateutil.parser
 from urllib3.exceptions import TimeoutError, HTTPError
-from src.formatter.htmlformatter import HtmlFormatter
-from operator import itemgetter
 
 storage = JsonStorage(filename = JSON_FILENAME)
 
@@ -60,7 +58,3 @@ storage.save()
 # Build README.md
 formatter = ReadmeFormatter(storage)
 formatter.render('README.md')
-
-# Build index.html
-formatter_html = HtmlFormatter(storage)
-formatter_html.render('docs/index.html')

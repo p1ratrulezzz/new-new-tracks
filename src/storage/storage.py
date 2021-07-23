@@ -34,7 +34,7 @@ class Storage(ABC):
                 self.setSandboxData('has_new_tracks', True)
                 newinfo['added'] = datetime.now(timezone.utc).isoformat(timespec='seconds')
 
-            newinfo = self.mergeTrack(newinfo, trackInfo)
+            newinfo = self.mergeTrack(trackInfo, newinfo)
 
             self._tracks[hash] = newinfo
 

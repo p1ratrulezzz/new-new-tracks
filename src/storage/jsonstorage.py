@@ -8,7 +8,7 @@ class JsonStorage(Storage):
     _last_exit_clean = True
 
     def __init__(self, **kwargs):
-        super().__init__(**kwargs)
+        super(JsonStorage, self).__init__(**kwargs)
         if "filename" not in self._options:
             raise RuntimeError("Filename option must be set")
 

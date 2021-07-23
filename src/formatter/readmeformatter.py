@@ -24,7 +24,8 @@ class ReadmeFormatter():
 
             date = ' '
             if trackInfo.get('date'):
-                date ='<a id="{id}" href="#{id}">'.format(id = trackInfo['sort_string']) + str(trackInfo['date']['year']) + ', ' + calendar.month_name[trackInfo['date']['month']] + '</a>'
+                month_name = (', ' + calendar.month_name[trackInfo['date']['month']]) if isinstance(trackInfo['date']['month'], int) else ''
+                date ='<a id="{id}" href="#{id}">'.format(id = trackInfo['sort_string']) + str(trackInfo['date']['year']) + month_name + '</a>'
 
             table += '|{linkimage}|{trackname}|{date}|\n'.format(
                 trackname = trackname,

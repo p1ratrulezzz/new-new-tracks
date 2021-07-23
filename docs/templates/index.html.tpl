@@ -27,8 +27,8 @@
             <a class="navbar-brand" href="#"><a href="/"><h1>${page['title']}</h1></a></a>
         </div>
     </div>
-    <div class="row row-cols-2">
-        <div class="col-sm col-sm-1" style="max-width: 150px">
+    <div class="container row">
+        <div class="col-12 col-md-1 col-sm-12">
             <nav id="dates-navigation" class="navbar navbar-fixed-left sticky-top">
                 <nav class="nav navbar-dates">
                     % for item in tracks:
@@ -37,14 +37,16 @@
                 </nav>
             </nav>
         </div>
-        <div class="col-sm container-fluid" data-spy="scroll" data-offset="0" data-target="#dates-navigation">
+        <div class="col-12 col-md-10 col-sm-12" data-spy="scroll" data-offset="0" data-target="#dates-navigation">
             % for year_tracks in tracks:
                 <h4 id="index-year-${year_tracks['year']}">${year_tracks['year']}</h4>
                 % for item in year_tracks['tracks']:
                     <div class="card mb-3">
                     <div class="row g-0">
-                        <div class="col-md-4">
-                            <img src="${item['image']}" class="img-fluid rounded-start">
+                        <div class="col-md-2">
+                            <a href="${item['href']}">
+                                <img src="${item['image']}" class="img-fluid rounded-start">
+                            </a>
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">

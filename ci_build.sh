@@ -32,6 +32,8 @@ pip3 install -r requirements.txt
 
 echo "Parsing data and rebuild readme..."
 python3 rebuild_readme.py
+echo "Rebuilding docs/index.html"
+python3 rebuild_html.py
 
 echo "Add to git"
 git add README.md resources docs
