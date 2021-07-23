@@ -44,7 +44,7 @@
                     <div class="card mb-3">
                     <div class="row g-0">
                         <div class="col-md-2">
-                            <a href="${item['href']}">
+                            <a target="_new" href="${item['href']}">
                                 <img src="${item['image']}" class="img-fluid rounded-start">
                             </a>
                         </div>
