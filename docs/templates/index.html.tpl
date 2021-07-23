@@ -50,7 +50,9 @@
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
-                                    <h5 class="card-title">${item['artist']} - ${item['title']}</h5>
+                                <h5 class="card-title">
+                                    <a href="#track-index-${item['counter']}" id="track-index-${item['counter']}">${item['artist']} - ${item['title']}</a>
+                                </h5>
 
                                 % if item['date_formatted']:
                                     <p class="card-text">${item['date_formatted']}</p>
