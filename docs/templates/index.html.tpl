@@ -18,6 +18,9 @@
     <meta name="distribution" content="global">
     <meta name="rating" content="mature">
     <meta name="generator" content="FreeMetaTagGenerator.com">
+    <meta http-equiv="content-language" content="ru" />
+    <meta http-equiv="cache-control" content="public,must-revalidate,max-age=86400" />
+    <meta http-equiv="etag" content="${buildhash}" />
 </head>
 <body>
 <div class="main-wrapper container">
