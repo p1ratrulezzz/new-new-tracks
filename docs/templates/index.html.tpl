@@ -10,8 +10,8 @@
 
     <title>${page['title']}</title>
 
-    ##<meta name="description" content="Словарь с неординарными фразами, о которых мало кто слышал. Узнай новые слова и выпендрись перед тянками!">
-    ##<meta name="keywords" content="словарь, сельский словарь, модные слова, современный словарь, современные слова, интересные слова${page['keywords']}">
+    <meta name="description" content="Треклист радио NRJ 104.2 в России с автообновлением">
+    <meta name="keywords" content="радио, nrj russia, moscow, 104.2 fm, песня, музыка">
     <meta name="robots" content="index, follow">
     <meta name="language" content="RU">
     <meta name="author" content="P1ratRuleZZZ">
