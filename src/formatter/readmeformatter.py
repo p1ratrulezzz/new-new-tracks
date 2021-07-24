@@ -8,7 +8,7 @@ class ReadmeFormatter():
     def render(self, filepath:str):
         table = '||Track|Date|\n'
         table += '|---|--------|---|\n'
-        tracks_sorted = sorted(self._storage.getTracks().values(), key=itemgetter('added'))
+        tracks_sorted = sorted(self._storage.getTracks().values(), key=itemgetter('sort_string', 'added'), reverse=True)
         for trackInfo in tracks_sorted:
             trackname = ''
             trackname += ((str(trackInfo['artist']) + ' - ') if trackInfo.get('artist') else '') + trackInfo['title']
