@@ -23,7 +23,8 @@ class HtmlFormatter(ReadmeFormatter):
         tpl = Template(filename="docs/templates/index.html.tpl", input_encoding='utf-8')
         tracks = {}
         i = 0
-        for trackInfo in self._storage.getTracks().values():
+        tracks_sorted = sorted(self._storage.getTracks().values(), key = lambda x: ( str(x['sort_string']), str('counter') ), reverse=True)
+        for trackInfo in tracks_sorted:
             # if i > 30:
             #     break
 
