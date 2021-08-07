@@ -11,6 +11,9 @@ The new tracks are also available on https://www.energyfm.ru/new_tracks
 
 ||Track|Date|
 |---|--------|---|
+|[<img src="https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202108/31/ff9c611237032a0ca8bfca366c3b05b1.jpg?w=200&h=200&pos=center&t=1628233496" />](https://www.energyfm.ru/track/uid/6911)|Lil NAS X & Jack HARLOW - Industry Baby|<a id="202108_3" href="#202108_3">2021, August</a>|
+|[<img src="https://cdn2.energyfm.ru/proxy/vardata/modules/musicdb/files/202108/31/e1176e5d3709db66df2492243360f20a.jpg?w=200&h=200&pos=center&t=1628234262" />](https://www.energyfm.ru/track/uid/6916)|RUDENKO & ARITMIYA - Wicked Game|<a id="202108_2" href="#202108_2">2021, August</a>|
+|[<img src="https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202108/31/a3b2a88a0e175d8ac20661ca6682e2b1.jpg?w=200&h=200&pos=center&t=1628233839" />](https://www.energyfm.ru/track/uid/6914)|IMANBEK & KDDK & YA RICK - Bam|<a id="202108_1" href="#202108_1">2021, August</a>|
 |[<img src="https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202107/26/a1d2c1408dc50bcb7bb95eb7973b5d2e.png?w=200&h=200&pos=center&t=1625219410" />](https://www.energyfm.ru/track/uid/6859)|Julian JORDAN & Teo MANDRELLI & Jordan GRACE - Shout|<a id="202107_8" href="#202107_8">2021, July</a>|
 |[<img src="https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202107/26/e77ecc100f746873c6653ccfed47fa59.jpg?w=200&h=200&pos=center&t=1625218336" />](https://www.energyfm.ru/track/uid/6854)|ED SHEERAN - Bad Habits|<a id="202107_7" href="#202107_7">2021, July</a>|
 |[<img src="https://cdn1.energyfm.ru/proxy/vardata/modules/musicdb/files/202107/26/4916f41b7a21e5f9df1e5b4ec5d5f5b4.jpg?w=200&h=200&pos=center&t=1625218620" />](https://www.energyfm.ru/track/uid/6856)|DJ QUBA & SANDRA K & DAYANA - Samba|<a id="202107_6" href="#202107_6">2021, July</a>|
