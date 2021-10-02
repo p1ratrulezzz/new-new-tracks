@@ -11,6 +11,8 @@ The new tracks are also available on https://www.energyfm.ru/new_tracks
 
 ||Track|Date|
 |---|--------|---|
+|[<img src="https://cdn1.energyfm.ru/proxy/vardata/modules/musicdb/files/202110/39/94b72c6ccbb3a59b565c2b2b0a9bf422.jpg?w=200&h=200&pos=center&t=1633078390" />](https://www.energyfm.ru/track/uid/6999)|FILATOV & KARAS & BUSY REMO - Au Revoir|<a id="202110_2" href="#202110_2">2021, October</a>|
+|[<img src="https://cdn2.energyfm.ru/proxy/vardata/modules/musicdb/files/202110/39/26d0576083ef5f7d770e0536293d7abb.jpg?w=200&h=200&pos=center&t=1633078485" />](https://www.energyfm.ru/track/uid/7004)|TIAGZ - I Just Wanna Dance|<a id="202110_1" href="#202110_1">2021, October</a>|
 |[<img src="https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202109/36/de6199af3af95d5174dda923b2ce9ca0.jpg?w=200&h=200&pos=center&t=1631268958" />](https://www.energyfm.ru/track/uid/6976)|COYOT - Remember|<a id="202109_4" href="#202109_4">2021, September</a>|
 |[<img src="https://cdn1.energyfm.ru/proxy/vardata/modules/musicdb/files/202109/35/2b081754bd9e4e1b708a6d29101098a6.jpg?w=200&h=200&pos=center&t=1630660363" />](https://www.energyfm.ru/track/uid/6969)|SUB URBAN & Bella POARCH - Inferno|<a id="202109_3" href="#202109_3">2021, September</a>|
 |[<img src="https://cdn1.energyfm.ru/proxy/vardata/modules/musicdb/files/202109/36/30dd45b8b26295dea3ce4a0e80debbfb.jpg?w=200&h=200&pos=center&t=1631269273" />](https://www.energyfm.ru/track/uid/6981)|TESHER & Jason DERULO - Jalebi Baby (DallasK rmx)|<a id="202109_3" href="#202109_3">2021, September</a>|
