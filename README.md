@@ -11,6 +11,8 @@ The new tracks are also available on https://www.energyfm.ru/new_tracks
 
 ||Track|Date|
 |---|--------|---|
+|[<img src="https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202111/44/66d5d929c203e9b73cff4a9347bc55b7.jpg?w=200&h=200&pos=center&t=1636121529" />](https://www.energyfm.ru/track/uid/7054)|Alis SHUKA - Not About Us (Byjoelmichael rmx)|<a id="202111_2" href="#202111_2">2021, November</a>|
+|[<img src="https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202111/44/6f38290f9e438900e3df05cd4e959e7e.jpg?w=200&h=200&pos=center&t=1636121329" />](https://www.energyfm.ru/track/uid/7049)|IMANBEK - IMANBEK & HOLLYWOOD UNDEAD - Runaway|<a id="202111_1" href="#202111_1">2021, November</a>|
 |[<img src="https://cdn2.energyfm.ru/proxy/vardata/modules/musicdb/files/202110/40/61f286afc6f39b1065a7e5bef4413487.jpg?w=200&h=200&pos=center&t=1633683005" />](https://www.energyfm.ru/track/uid/7014)|CKAY - Love Nwantiti (Ditvak rmx)|<a id="202110_3" href="#202110_3">2021, October</a>|
 |[<img src="https://cdn2.energyfm.ru/proxy/vardata/modules/musicdb/files/202110/41/bdcd94329ff453a5c08ed7a6cb747bb4.jpg?w=200&h=200&pos=center&t=1634282487" />](https://www.energyfm.ru/track/uid/7029)|IMANBEK & LP - Fighter|<a id="202110_3" href="#202110_3">2021, October</a>|
 |[<img src="https://cdn1.energyfm.ru/proxy/vardata/modules/musicdb/files/202110/42/c2b50f53eece6357fb71f0217a48f455.jpg?w=200&h=200&pos=center&t=1634911512" />](https://www.energyfm.ru/track/uid/7031)|Lost Frequencies - Where Are You Now|<a id="202110_3" href="#202110_3">2021, October</a>|
