@@ -11,6 +11,8 @@ The new tracks are also available on https://www.energyfm.ru/new_tracks
 
 ||Track|Date|
 |---|--------|---|
+|[<img src="https://cdn2.energyfm.ru/proxy/vardata/modules/musicdb/files/202112/48/688f6b88fdf5dc2e69deed354dee3e62.jpg?w=200&h=200&pos=center&t=1638519279" />](https://www.energyfm.ru/track/uid/7090)|MINELLI - Nothing Hurts|<a id="202112_2" href="#202112_2">2021, December</a>|
+|[<img src="https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202112/48/4ed2cfd4ac57cdc16cd26be87eec7c4c.jpg?w=200&h=200&pos=center&t=1638520354" />](https://www.energyfm.ru/track/uid/7095)|Alan WALKER & Winona OAK - World We Used To Know|<a id="202112_1" href="#202112_1">2021, December</a>|
 |[<img src="https://cdn2.energyfm.ru/proxy/vardata/modules/musicdb/files/202111/45/18eef85f98b33c1fa041cb2e39263dd9.png?w=200&h=200&pos=center&t=1636705368" />](https://www.energyfm.ru/track/uid/7064)|ONEIL & SMOLA - Addicted|<a id="202111_3" href="#202111_3">2021, November</a>|
 |[<img src="https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202111/46/b7f4d4815553fdedafb824c91f531345.jpg?w=200&h=200&pos=center&t=1637306399" />](https://www.energyfm.ru/track/uid/7065)|TIESTO - The Motto|<a id="202111_3" href="#202111_3">2021, November</a>|
 |[<img src="https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202111/47/529c950683e65cf50fb834ccb35826ba.jpg?w=200&h=200&pos=center&t=1637917063" />](https://www.energyfm.ru/track/uid/7079)|LP - Angels (KDDK rmx)|<a id="202111_3" href="#202111_3">2021, November</a>|
