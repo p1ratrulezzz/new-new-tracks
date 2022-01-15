@@ -11,8 +11,11 @@ The new tracks are also available on https://www.energyfm.ru/new_tracks
 
 ||Track|Date|
 |---|--------|---|
+|[<img src="https://cdn1.energyfm.ru/proxy/vardata/modules/musicdb/files/202201/02/708e39eddaceadb2585717229d56208b.jpg?w=200&h=200&pos=center&t=1642162633" />](https://www.energyfm.ru/track/uid/7133)|GAYLE - Abcdefu|<a id="202201_3" href="#202201_3">2022, January</a>|
 |[<img src="https://cdn2.energyfm.ru/proxy/vardata/modules/musicdb/files/202201/01/5f610a6776490222387a349daabe1b2b.jpg?w=200&h=200&pos=center&t=1641625712" />](https://www.energyfm.ru/track/uid/7123)|MONOIR - Irish|<a id="202201_2" href="#202201_2">2022, January</a>|
+|[<img src="https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202201/02/cdb0cb746678f105be66429032636fd9.jpg?w=200&h=200&pos=center&t=1642162525" />](https://www.energyfm.ru/track/uid/7128)|NRD1 & SUSHY - Another Day In Paradise|<a id="202201_2" href="#202201_2">2022, January</a>|
 |[<img src="https://cdn2.energyfm.ru/proxy/vardata/modules/musicdb/files/202201/01/7b3bcf90b683cf463ef3c635e87f7a16.jpg?w=200&h=200&pos=center&t=1641625581" />](https://www.energyfm.ru/track/uid/7119)|Sak NOEL & CHESKA - Arcade|<a id="202201_1" href="#202201_1">2022, January</a>|
+|[<img src="https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202201/02/f00ea9e0752f64820e3b0b0db923013d.jpg?w=200&h=200&pos=center&t=1642162271" />](https://www.energyfm.ru/track/uid/7127)|Elley DUHE - Middle Of The Night|<a id="202201_1" href="#202201_1">2022, January</a>|
 |[<img src="https://cdn1.energyfm.ru/proxy/vardata/modules/musicdb/files/202112/50/5406b3bed611c03ff607ddb6286cdd59.jpg?w=200&h=200&pos=center&t=1639736344" />](https://www.energyfm.ru/track/uid/7108)|C-BOOL - What Can I Do|<a id="202112_3" href="#202112_3">2021, December</a>|
 |[<img src="https://cdn2.energyfm.ru/proxy/vardata/modules/musicdb/files/202112/48/688f6b88fdf5dc2e69deed354dee3e62.jpg?w=200&h=200&pos=center&t=1638519279" />](https://www.energyfm.ru/track/uid/7090)|MINELLI - Nothing Hurts|<a id="202112_2" href="#202112_2">2021, December</a>|
 |[<img src="https://cdn1.energyfm.ru/proxy/vardata/modules/musicdb/files/202112/49/420fb6706a1b6380b72bc59f4a156666.jpeg?w=200&h=200&pos=center&t=1639127453" />](https://www.energyfm.ru/track/uid/7100)|MUOGLETA - California Love|<a id="202112_2" href="#202112_2">2021, December</a>|
