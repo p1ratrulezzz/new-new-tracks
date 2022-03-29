@@ -8,7 +8,7 @@ This repo stores a table with all tracks on NRJ Radio in Russia.
 
 The new tracks are also available on https://www.energyfm.ru/new_tracks
 
-#Donate 
+# Donate 
 
 ## Crypto
 **Bitcoin**: bc1qh50x5rgac8lr2us3tu9rrt0pxzf2q39k64jgt9<br>
