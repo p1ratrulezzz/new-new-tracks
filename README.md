@@ -18,6 +18,9 @@ The new tracks are also available on https://www.energyfm.ru/new_tracks
 
 ||Track|Date|
 |---|--------|---|
+|[<img src="https://cdn1.energyfm.ru/proxy/vardata/modules/musicdb/files/202204/13/44532427dfb84404f0d855dee504315b.png?w=200&h=200&pos=center&t=1648809063" />](https://www.energyfm.ru/track/uid/7236)|KLANGKARUSSELL - Home|<a id="202204_3" href="#202204_3">2022, April</a>|
+|[<img src="https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202204/13/7040fb7ad671b23bfd9948ffac3a83fd.jpg?w=200&h=200&pos=center&t=1648808791" />](https://www.energyfm.ru/track/uid/7231)|CASSETTE - Tell Me Why|<a id="202204_2" href="#202204_2">2022, April</a>|
+|[<img src="https://cdn2.energyfm.ru/proxy/vardata/modules/musicdb/files/202204/13/d32fc848a018d138744b064ae5eb54bf.jpg?w=200&h=200&pos=center&t=1648808386" />](https://www.energyfm.ru/track/uid/7226)|Willy WILLIAM - Trompeta|<a id="202204_1" href="#202204_1">2022, April</a>|
 |[<img src="https://cdn2.energyfm.ru/proxy/vardata/modules/musicdb/files/202203/11/36bab545e7a483f7c419ad76388b1f63.png?w=200&h=200&pos=center&t=1647591690" />](https://www.energyfm.ru/track/uid/7211)|GLASS ANIMALS - Heat Waves|<a id="202203_3" href="#202203_3">2022, March</a>|
 |[<img src="https://cdn1.energyfm.ru/proxy/vardata/modules/musicdb/files/202203/12/c19db20fc023530659966a135d54365d.webp?w=200&h=200&pos=center&t=1648209913" />](https://www.energyfm.ru/track/uid/7224)|REGARD & YEARS & YAERS - Hallucination|<a id="202203_3" href="#202203_3">2022, March</a>|
 |[<img src="https://cdn2.energyfm.ru/proxy/vardata/modules/musicdb/files/202203/09/a2f44d767f425e66a8cae7df491196f8.jpg?w=200&h=200&pos=center&t=1646418554" />](https://www.energyfm.ru/track/uid/7198)|ROXEN - UFO|<a id="202203_2" href="#202203_2">2022, March</a>|
