@@ -19,6 +19,8 @@ The new tracks are also available on https://www.energyfm.ru/new_tracks
 
 ||Track|Date|
 |---|--------|---|
+|[<img src="https://cdn2.energyfm.ru/proxy/vardata/modules/musicdb/files/202207/26/1ef353cfed9636393227f93b267c1829.jpg?w=200&h=200&pos=center&t=1656674921" />](https://www.energyfm.ru/track/uid/7382)|Alvaro SOLER & TOPIC - Solo Para Ti|<a id="202207_2" href="#202207_2">2022, July</a>|
+|[<img src="https://cdn1.energyfm.ru/proxy/vardata/modules/musicdb/files/202207/26/bf7dd9d4aa90503912455c58b44b9a56.jpg?w=200&h=200&pos=center&t=1656674853" />](https://www.energyfm.ru/track/uid/7377)|IMAGINE DRAGONS - Sharks|<a id="202207_1" href="#202207_1">2022, July</a>|
 |[<img src="https://cdn1.energyfm.ru/proxy/vardata/modules/musicdb/files/202206/23/2ec76932c84caa85d26b614350319228.jpg?w=200&h=200&pos=center&t=1654867660" />](https://www.energyfm.ru/track/uid/7332)|YA RICK & KDDK - Mech Burye (Serkan Balad)|<a id="202206_3" href="#202206_3">2022, June</a>|
 |[<img src="https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202206/25/a2045caf90c3395e1185da423cd92266.jpg?w=200&h=200&pos=center&t=1656082616" />](https://www.energyfm.ru/track/uid/7362)|RAFFA FL - Ritmo|<a id="202206_3" href="#202206_3">2022, June</a>|
 |[<img src="https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202206/23/0f6fea676818a0a28165f913b98d5033.jpg?w=200&h=200&pos=center&t=1654883595" />](https://www.energyfm.ru/track/uid/7347)|Gabry PONTE & DADDY DJ - We Could Be Together|<a id="202206_2" href="#202206_2">2022, June</a>|
