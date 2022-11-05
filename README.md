@@ -20,6 +20,9 @@ The new tracks are also available on https://www.energyfm.ru/new_tracks
 ||Track|Date|
 |---|--------|---|
 |[<img src="/design/images/spacer.gif" />](https://www.energyfm.ru/track/uid/7498)|KEYLASH - Tonight|<a id="3" href="#3">2022, September</a>|
+|[<img src="https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202211/44/660a23a9bfb659559f314274a1902c30.jpg?w=200&h=200&pos=center&t=1667461650" />](https://www.energyfm.ru/track/uid/7598)|AURORA - Cure For Me|<a id="202211_3" href="#202211_3">2022, November</a>|
+|[<img src="https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202211/44/2da48ec412996a2c8a9c01cb3ff2baeb.jpg?w=200&h=200&pos=center&t=1667461551" />](https://www.energyfm.ru/track/uid/7597)|Nikita RISE & ONE BRO - Harmonica|<a id="202211_2" href="#202211_2">2022, November</a>|
+|[<img src="https://cdn2.energyfm.ru/proxy/vardata/modules/musicdb/files/202211/44/e64ef6aa2e0cb76fce73fdb6f93c4c3b.jpg?w=200&h=200&pos=center&t=1667459347" />](https://www.energyfm.ru/track/uid/7593)|ENISA - Just A Kiss (Muah)|<a id="202211_1" href="#202211_1">2022, November</a>|
 |[<img src="https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202210/43/8f0f97edd51833f777a4329051490a2c.jpg?w=200&h=200&pos=center&t=1666947189" />](https://www.energyfm.ru/track/uid/7558)|The FUTURE X - This Kind Of Love|<a id="202210_3" href="#202210_3">2022, October</a>|
 |[<img src="https://cdn2.energyfm.ru/proxy/vardata/modules/musicdb/files/202210/40/d633c20f5d0485489c779a8fab2ae21b.jpg?w=200&h=200&pos=center&t=1665137553" />](https://www.energyfm.ru/track/uid/7533)|Robin SCHULZ - Rockstar Baby|<a id="202210_2" href="#202210_2">2022, October</a>|
 |[<img src="https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202210/41/0e89c091d4c1f76718b01c62a22210a6.jpg?w=200&h=200&pos=center&t=1665755327" />](https://www.energyfm.ru/track/uid/7538)|INNA & MELON & DANCE FRUITS MUSIC - Hello Hello|<a id="202210_2" href="#202210_2">2022, October</a>|
