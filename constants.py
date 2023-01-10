@@ -3,8 +3,8 @@ import yaml
 __all__ = ["JSON_FILENAME", "NRJ_TRACKS_URL", 'FULL_PARSE_INTERVAL_S', "SPOTIFY"]
 
 JSON_FILENAME = 'resources/tracks.json'
-NRJ_TRACKS_URL = 'https://www.energyfm.ru/new_tracks_wrapper/page'
-FULL_PARSE_INTERVAL_S = 30 * 24 * 3600 # 30 Days
+NRJ_TRACKS_URL = 'https://www.energyfm.ru/new-tracks__load/page'
+FULL_PARSE_INTERVAL_S = 30 * 24 * 3600  # 30 Days
 
 with open('spotify.yml', 'r') as token_fp:
     spotify_data = yaml.safe_load(token_fp)
@@ -16,6 +16,7 @@ if not spotify_data:
 intersect = spotify_data.keys() & {'client_id', 'client_secret'}
 if len(intersect) != 2:
     raise RuntimeError('There must be client_id and client_secret set for spotify')
+
 
 class SPOTIFY:
     CLIENT_ID = spotify_data['client_id']

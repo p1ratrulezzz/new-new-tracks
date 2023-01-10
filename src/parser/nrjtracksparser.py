@@ -1,5 +1,5 @@
 from src.parser.parser import Parser
-from bs4 import BeautifulSoup, element, ResultSet
+from bs4 import BeautifulSoup, element, ResultSet, Tag
 import urllib3
 import re
 
@@ -28,19 +28,28 @@ class NRJTracksParser(Parser):
 
         bs = BeautifulSoup(r.data, 'html.parser')
 
-        divEls: ResultSet = bs.select('.list.pr .new-track-next-name')
+        divEls: ResultSet = bs.select('.track-list__item>.track')
         divEl: element.Tag
         re_compiled = re.compile('\/files\/([0-9]{4})([0-9]{2})\/', flags=re.IGNORECASE)
         for divEl in divEls:
+            trackEl = divEl.select('.track__inner>.track__title>a')[0]
+            artistEl = divEl.select('.track__artist>a.track__link')[0]
             track_data = {}
-            track_data['href'] = self._baseurl + '/' + divEl.parent['href'].lstrip('/')
-            track_label = divEl.get_text(separator = '\n', strip=True)
-            labels = track_label.split('\n')
-            track_data['artist'] = self.clearTrackName(labels[0])
-            track_data['title'] = self.clearTrackName(labels[-1])
-            images = divEl.find_previous_siblings('img')
+            track_data['href'] = self._baseurl + '/' + trackEl['href'].lstrip('/')
+            track_data['href_artist'] = self._baseurl + '/' + artistEl['href'].lstrip('/')
+            track_data['artist'] = self.clearTrackName(artistEl.get_text(strip=True))
+            track_data['title'] = self.clearTrackName(trackEl.get_text(strip=True))
+            images = divEl.find_all('img')
             if len(images) > 0:
-                imgsrc = images[0]['src']
+                img: Tag = images[0]
+                if img.has_attr('src'):
+                    imgsrc = img['src']
+                elif img.has_attr('data-src'):
+                    imgsrc = img['data-src']
+
+                if imgsrc is None:
+                    continue
+
                 track_data['image'] = imgsrc
                 matches = re_compiled.findall(imgsrc)
                 if len(matches) > 0:

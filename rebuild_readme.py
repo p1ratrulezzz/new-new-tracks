@@ -7,7 +7,7 @@ from datetime import datetime, timezone
 import dateutil.parser
 from urllib3.exceptions import TimeoutError, HTTPError
 
-storage = JsonStorage(filename = JSON_FILENAME)
+storage = JsonStorage(filename=JSON_FILENAME)
 
 is_full_parse = True
 last_finished = storage.getSandboxData('finished')
@@ -16,7 +16,7 @@ if last_finished:
     if (datetime.now(timezone.utc) - last_finished).seconds <= FULL_PARSE_INTERVAL_S:
         is_full_parse = False
 
-page : int = 1 if not is_full_parse else storage.getSandboxData('page', 1)
+page: int = 1 if not is_full_parse else storage.getSandboxData('page', 1)
 
 finished = False
 while (not finished):
@@ -33,7 +33,7 @@ while (not finished):
             storage.mergeTracks(tracks)
             storage.setSandboxData('page', page)
 
-    except (TimeoutError, HTTPError):
+    except (TimeoutError, HTTPError) as e:
         storage.setSandboxData('last_exit_clean', False)
     finally:
         if not is_full_parse:
