@@ -20,8 +20,10 @@ The new tracks are also available on https://www.energyfm.ru/new_tracks
 ||Track|Date|
 |---|--------|---|
 |[<img src="/design/images/spacer.gif" />](https://www.energyfm.ru/track/uid/7498)|KEYLASH - Tonight|<a id="3" href="#3">2022, September</a>|
+|[<img src="https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202302/05/3d4ac68eb6ab3e37ab6f88b681fde408.jpg?w=250&h=250&pos=center&t=1675257378" />](https://www.energyfm.ru/track/7742)|Elley DUHE - Money On The Dash|<a id="202302_1" href="#202302_1">2023, February</a>|
 |[<img src="https://cdn2.energyfm.ru/proxy/vardata/modules/musicdb/files/202301/02/571cb8a628d0859390b457bc6dcd4f11.jpg?w=250&h=250&pos=center&t=1673634781" />](https://www.energyfm.ru/track/7718)|ALOK - Work With My Love|<a id="202301_2" href="#202301_2">2023, January</a>|
 |[<img src="https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202301/03/8adb8b8acad4d6963b03b16f51086026.jpg?w=250&h=250&pos=center&t=1674203561" />](https://www.energyfm.ru/track/7719)|MANESKIN - Gossip|<a id="202301_2" href="#202301_2">2023, January</a>|
+|[<img src="https://cdn1.energyfm.ru/proxy/vardata/modules/musicdb/files/202301/04/e7e55bd3b596566b3fdac3db852c5e9f.jpg?w=250&h=250&pos=center&t=1674804785" />](https://www.energyfm.ru/track/7734)|Gabry PONTE - Dance Dance|<a id="202301_2" href="#202301_2">2023, January</a>|
 |[<img src="https://cdn2.energyfm.ru/proxy/vardata/modules/musicdb/files/202301/02/c8bf99875bcf5e483ad058239d85294b.jpg?w=250&h=250&pos=center&t=1673634634" />](https://www.energyfm.ru/track/7714)|Lil NAS X - Star Walkin|<a id="202301_1" href="#202301_1">2023, January</a>|
 |[<img src="https://cdn2.energyfm.ru/proxy/vardata/modules/musicdb/files/202301/02/e68a6494972624e33d5122e3628ec8ba.jpg?w=250&h=250&pos=center&t=1673634534" />](https://www.energyfm.ru/track/7713)|Martin GARRIX - Hero|<a id="202301_1" href="#202301_1">2023, January</a>|
 |[<img src="https://cdn2.energyfm.ru/proxy/vardata/modules/musicdb/files/202301/03/e3626541285086bb9ee50313ee4b44af.jpg?w=250&h=250&pos=center&t=1674204290" />](https://www.energyfm.ru/track/7724)|Selena GOMEZ - Calm Down|<a id="202301_1" href="#202301_1">2023, January</a>|
