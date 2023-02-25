@@ -1,5 +1,5 @@
 {
- "updated": "2023-02-24T02:45:24+00:00",
+ "updated": "2023-02-25T02:46:44+00:00",
  "tracks": {
   "6a4707fb": {
    "href": "https://www.energyfm.ru/track/uid/6874",
@@ -26663,6 +26663,44 @@
     "album": "spotify:album:24qZoHnMiOktrQxis4gYSM",
     "image": "https://i.scdn.co/image/ab67616d0000b2736730423bdbb7f07d60afcfdc"
    }
+  },
+  "79d80914": {
+   "href": "https://www.energyfm.ru/track/7795",
+   "href_artist": "https://www.energyfm.ru/artist/id/3279",
+   "artist": "DRENCHILL",
+   "title": "Starlight",
+   "image": "https://cdn1.energyfm.ru/proxy/vardata/modules/musicdb/files/202302/07/08fc5a168a3c516ba4487a83e3e3320c.jpg?w=250&h=250&pos=center&t=1676371944",
+   "date": {
+    "year": 2023,
+    "month": 2
+   },
+   "counter": 1,
+   "sort_string": "202302_1",
+   "added": "2023-02-25T02:46:19+00:00",
+   "spotify": {
+    "track": "spotify:track:01a7nB3AywapMgbLi3LGbZ",
+    "album": "spotify:album:7xWgrLBIQVECzOsNvo2OHU",
+    "image": "https://i.scdn.co/image/ab67616d0000b273aae41cbe2c743f2c465a0be5"
+   }
+  },
+  "f0bf0c86": {
+   "href": "https://www.energyfm.ru/track/7783",
+   "href_artist": "https://www.energyfm.ru/artist/id/4580",
+   "artist": "CLAUDE",
+   "title": "Ladada (Mon Dernier Mot)",
+   "image": "https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202302/06/3be6363a4a8af4e48e8798a46643dfc7.jpg?w=250&h=250&pos=center&t=1676040085",
+   "date": {
+    "year": 2023,
+    "month": 2
+   },
+   "counter": 2,
+   "sort_string": "202302_2",
+   "added": "2023-02-25T02:46:19+00:00",
+   "spotify": {
+    "track": "spotify:track:0LVjBdjZvJykxed42ExTLf",
+    "album": "spotify:album:0MNpgjf367wpgf742ZkHGr",
+    "image": "https://i.scdn.co/image/ab67616d0000b27333a25e062a95e6a06243ed04"
+   }
   }
  },
  "sandbox": {
@@ -26670,7 +26708,7 @@
   "has_new_tracks": true,
   "finished": "2021-07-23T09:00:18+00:00",
   "page": 1,
-  "partly_parsed": "2023-02-24T02:45:01+00:00",
+  "partly_parsed": "2023-02-25T02:46:19+00:00",
   "last_exit_clean": false
  }
 }
