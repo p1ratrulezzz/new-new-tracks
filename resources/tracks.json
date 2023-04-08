@@ -1,5 +1,5 @@
 {
- "updated": "2023-04-07T02:27:17+00:00",
+ "updated": "2023-04-08T02:24:13+00:00",
  "tracks": {
   "6a4707fb": {
    "href": "https://www.energyfm.ru/track/uid/6874",
@@ -27050,6 +27050,44 @@
     "album": "spotify:album:4ofey6tFX89zVipl1LKwhh",
     "image": "https://i.scdn.co/image/ab67616d0000b273746a8b051f11b2bc2245827f"
    }
+  },
+  "8fd709bc": {
+   "href": "https://www.energyfm.ru/track/7989",
+   "href_artist": "https://www.energyfm.ru/artist/id/4702",
+   "artist": "MAIREE",
+   "title": "Sweet Chili Hot",
+   "image": "https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202303/13/e4e0015f369ddeb0be522ffc4260ad0b.jpg?w=250&h=250&pos=center&t=1679995736",
+   "date": {
+    "year": 2023,
+    "month": 3
+   },
+   "counter": 1,
+   "sort_string": "202303_1",
+   "added": "2023-04-08T02:23:50+00:00",
+   "spotify": {
+    "track": "spotify:track:6K90MKpkKkdihnzCsybotA",
+    "album": "spotify:album:1400giqo5YcZuBHSaTzU9u",
+    "image": "https://i.scdn.co/image/ab67616d0000b273bd25268fb84fcff096996e75"
+   }
+  },
+  "6c22086f": {
+   "href": "https://www.energyfm.ru/track/7979",
+   "href_artist": "https://www.energyfm.ru/artist/id/1164",
+   "artist": "TIESTO",
+   "title": "All Nighter",
+   "image": "https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202303/12/c916b14f22d2463ffb366b5b4a5433df.jpg?w=250&h=250&pos=center&t=1679645861",
+   "date": {
+    "year": 2023,
+    "month": 3
+   },
+   "counter": 2,
+   "sort_string": "202303_2",
+   "added": "2023-04-08T02:23:50+00:00",
+   "spotify": {
+    "track": "spotify:track:0JLTF45FqeK34BMMvpg5Yy",
+    "album": "spotify:album:1XLRWSpi9oiiVl3dkbAm6i",
+    "image": "https://i.scdn.co/image/ab67616d0000b2739062c50385e235654c385aff"
+   }
   }
  },
  "sandbox": {
@@ -27057,7 +27095,7 @@
   "has_new_tracks": true,
   "finished": "2021-07-23T09:00:18+00:00",
   "page": 1,
-  "partly_parsed": "2023-04-07T02:26:51+00:00",
+  "partly_parsed": "2023-04-08T02:23:50+00:00",
   "last_exit_clean": false
  }
 }
