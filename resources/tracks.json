@@ -1,5 +1,5 @@
 {
- "updated": "2023-04-21T02:29:47+00:00",
+ "updated": "2023-04-22T02:30:05+00:00",
  "tracks": {
   "6a4707fb": {
    "href": "https://www.energyfm.ru/track/uid/6874",
@@ -27183,6 +27183,63 @@
     "album": "spotify:album:32cDkCyVQFR8M4QtatNhGU",
     "image": "https://i.scdn.co/image/ab67616d0000b273cc64cc5575e1765713fc329f"
    }
+  },
+  "f8aa0cae": {
+   "href": "https://www.energyfm.ru/track/8018",
+   "href_artist": "https://www.energyfm.ru/artist/id/825",
+   "artist": "David GUETTA",
+   "title": "Baby Don't Hurt Me",
+   "image": "https://cdn1.energyfm.ru/proxy/vardata/modules/musicdb/files/202304/15/2e5b43a19b04eec48e86dfa400b05d3a.jpg?w=250&h=250&pos=center&t=1681462216",
+   "date": {
+    "year": 2023,
+    "month": 4
+   },
+   "counter": 1,
+   "sort_string": "202304_1",
+   "added": "2023-04-22T02:29:43+00:00",
+   "spotify": {
+    "track": "spotify:track:3BKD1PwArikchz2Zrlp1qi",
+    "album": "spotify:album:327tc3Eruk1HP1w62iqROy",
+    "image": "https://i.scdn.co/image/ab67616d0000b2730b4ef75c3728599aa4104f7a"
+   }
+  },
+  "50490714": {
+   "href": "https://www.energyfm.ru/track/8009",
+   "href_artist": "https://www.energyfm.ru/artist/id/3368",
+   "artist": "JAOVA",
+   "title": "Like That",
+   "image": "https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202304/15/d7f9dbce6ac80e0bee323a81a2c70d14.jpg?w=250&h=250&pos=center&t=1681213219",
+   "date": {
+    "year": 2023,
+    "month": 4
+   },
+   "counter": 2,
+   "sort_string": "202304_2",
+   "added": "2023-04-22T02:29:43+00:00",
+   "spotify": {
+    "track": "spotify:track:6vd2THceeypdi8CpcJjnl3",
+    "album": "spotify:album:070ZB9oGma5TlzsF1SnUeB",
+    "image": "https://i.scdn.co/image/ab67616d0000b273b8984c5efd2ea0f335ccca4d"
+   }
+  },
+  "27e50e89": {
+   "href": "https://www.energyfm.ru/track/8003",
+   "href_artist": "https://www.energyfm.ru/artist/id/4286",
+   "artist": "PURPLE DISCO MACHINE",
+   "title": "Substitution",
+   "image": "https://cdn2.energyfm.ru/proxy/vardata/modules/musicdb/files/202304/14/ea7b32cf59417871af0a7d8631783bf2.jpg?w=250&h=250&pos=center&t=1680871842",
+   "date": {
+    "year": 2023,
+    "month": 4
+   },
+   "counter": 3,
+   "sort_string": "202304_3",
+   "added": "2023-04-22T02:29:43+00:00",
+   "spotify": {
+    "track": "spotify:track:2F2p7b5Xq20mRyEeWYaeUF",
+    "album": "spotify:album:4yZMAPI2NazKbPbystE6D7",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a8bcf8fac8520ac2cbf72ea7"
+   }
   }
  },
  "sandbox": {
@@ -27190,7 +27247,7 @@
   "has_new_tracks": true,
   "finished": "2021-07-23T09:00:18+00:00",
   "page": 1,
-  "partly_parsed": "2023-04-21T02:29:26+00:00",
+  "partly_parsed": "2023-04-22T02:29:43+00:00",
   "last_exit_clean": false
  }
 }
