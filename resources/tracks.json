@@ -1,5 +1,5 @@
 {
- "updated": "2023-05-24T02:33:45+00:00",
+ "updated": "2023-05-25T02:31:17+00:00",
  "tracks": {
   "6a4707fb": {
    "href": "https://www.energyfm.ru/track/uid/6874",
@@ -27423,6 +27423,25 @@
     "album": "spotify:album:3opvHAj80TIQMZAg9a2FNv",
     "image": "https://i.scdn.co/image/ab67616d0000b27321acc4c231327248498a35da"
    }
+  },
+  "ace70a83": {
+   "href": "https://www.energyfm.ru/track/8055",
+   "href_artist": "https://www.energyfm.ru/artist/id/4740",
+   "artist": "Mae MULLER",
+   "title": "I Wrote A Song",
+   "image": "https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202305/18/b76f8158acb3add4824e57b133b8783c.jpg?w=250&h=250&pos=center&t=1683277543",
+   "date": {
+    "year": 2023,
+    "month": 5
+   },
+   "counter": 1,
+   "sort_string": "202305_1",
+   "added": "2023-05-25T02:30:54+00:00",
+   "spotify": {
+    "track": "spotify:track:6G4UYsLh7VEH29YmlHsrs0",
+    "album": "spotify:album:5p5bdmTy00MhCqK6HG1dkv",
+    "image": "https://i.scdn.co/image/ab67616d0000b273bac3e0d4a29c2b268b763397"
+   }
   }
  },
  "sandbox": {
@@ -27430,7 +27449,7 @@
   "has_new_tracks": true,
   "finished": "2021-07-23T09:00:18+00:00",
   "page": 1,
-  "partly_parsed": "2023-05-24T02:33:24+00:00",
+  "partly_parsed": "2023-05-25T02:30:54+00:00",
   "last_exit_clean": false
  }
 }
