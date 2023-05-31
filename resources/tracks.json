@@ -1,5 +1,5 @@
 {
- "updated": "2023-05-30T02:35:48+00:00",
+ "updated": "2023-05-31T02:51:24+00:00",
  "tracks": {
   "6a4707fb": {
    "href": "https://www.energyfm.ru/track/uid/6874",
@@ -27518,6 +27518,25 @@
     "album": "spotify:album:1ItxfUvQVlH7sAybyJ1SpB",
     "image": "https://i.scdn.co/image/ab67616d0000b27368eb565abb15fc77286076f8"
    }
+  },
+  "4add072b": {
+   "href": "https://www.energyfm.ru/track/8071",
+   "href_artist": "https://www.energyfm.ru/artist/id/4759",
+   "artist": "WRS",
+   "title": "Afterparty",
+   "image": "https://cdn2.energyfm.ru/proxy/vardata/modules/musicdb/files/202305/21/b1e298037fe69d1e8ee31a010e4a59ae.jpg?w=250&h=250&pos=center&t=1684917947",
+   "date": {
+    "year": 2023,
+    "month": 5
+   },
+   "counter": 1,
+   "sort_string": "202305_1",
+   "added": "2023-05-31T02:51:03+00:00",
+   "spotify": {
+    "track": "spotify:track:5sxSEU0QLfEqTY21eLIFSo",
+    "album": "spotify:album:2CyfPASgWOgA8WMJXopZjV",
+    "image": "https://i.scdn.co/image/ab67616d0000b273b981590880f04bd2ace8f9cb"
+   }
   }
  },
  "sandbox": {
@@ -27525,7 +27544,7 @@
   "has_new_tracks": true,
   "finished": "2021-07-23T09:00:18+00:00",
   "page": 1,
-  "partly_parsed": "2023-05-30T02:35:27+00:00",
+  "partly_parsed": "2023-05-31T02:51:03+00:00",
   "last_exit_clean": false
  }
 }
