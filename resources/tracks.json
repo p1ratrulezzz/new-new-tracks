@@ -1,5 +1,5 @@
 {
- "updated": "2023-06-06T02:53:25+00:00",
+ "updated": "2023-06-07T02:51:56+00:00",
  "tracks": {
   "6a4707fb": {
    "href": "https://www.energyfm.ru/track/uid/6874",
@@ -27575,6 +27575,25 @@
     "album": "spotify:album:2FJeCuU3JcO6EQWsjAGIdu",
     "image": "https://i.scdn.co/image/ab67616d0000b273b19a18aa7b5654e7ee60378e"
    }
+  },
+  "b6c80ae5": {
+   "href": "https://www.energyfm.ru/track/8076",
+   "href_artist": "https://www.energyfm.ru/artist/id/983",
+   "artist": "Kylie MINOGUE",
+   "title": "Padam Padam",
+   "image": "https://cdn2.energyfm.ru/proxy/vardata/modules/musicdb/files/202305/21/2a7785745c62ae4c33214eb391b27c86.jpg?w=250&h=250&pos=center&t=1685089245",
+   "date": {
+    "year": 2023,
+    "month": 5
+   },
+   "counter": 1,
+   "sort_string": "202305_1",
+   "added": "2023-06-07T02:51:32+00:00",
+   "spotify": {
+    "track": "spotify:track:3k0DJq2HdWJqnqor8NX0ac",
+    "album": "spotify:album:7vH3G0c3n1WsgTJHBmZxdV",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a14e6997f9878fe0e7736117"
+   }
   }
  },
  "sandbox": {
@@ -27582,7 +27601,7 @@
   "has_new_tracks": true,
   "finished": "2021-07-23T09:00:18+00:00",
   "page": 1,
-  "partly_parsed": "2023-06-06T02:53:03+00:00",
+  "partly_parsed": "2023-06-07T02:51:32+00:00",
   "last_exit_clean": false
  }
 }
