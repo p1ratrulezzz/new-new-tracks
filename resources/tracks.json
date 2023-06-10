@@ -1,5 +1,5 @@
 {
- "updated": "2023-06-09T02:54:04+00:00",
+ "updated": "2023-06-10T02:42:06+00:00",
  "tracks": {
   "6a4707fb": {
    "href": "https://www.energyfm.ru/track/uid/6874",
@@ -27594,6 +27594,44 @@
     "album": "spotify:album:7vH3G0c3n1WsgTJHBmZxdV",
     "image": "https://i.scdn.co/image/ab67616d0000b273a14e6997f9878fe0e7736117"
    }
+  },
+  "4725069c": {
+   "href": "https://www.energyfm.ru/track/8080",
+   "href_artist": "https://www.energyfm.ru/artist/id/2833",
+   "artist": "ALOK",
+   "title": "Mami Mami",
+   "image": "https://cdn2.energyfm.ru/proxy/vardata/modules/musicdb/files/202305/22/2d235d488c1dd0c43a363f33774fbbb0.jpg?w=250&h=250&pos=center&t=1685452278",
+   "date": {
+    "year": 2023,
+    "month": 5
+   },
+   "counter": 1,
+   "sort_string": "202305_1",
+   "added": "2023-06-10T02:41:42+00:00",
+   "spotify": {
+    "track": "spotify:track:2Pq82d7jfkC2UFqUdojapH",
+    "album": "spotify:album:5gdnagxUxbz8mIbb7DVdLT",
+    "image": "https://i.scdn.co/image/ab67616d0000b273cf1bbbb6d052dddf542b4dec"
+   }
+  },
+  "d9570c24": {
+   "href": "https://www.energyfm.ru/track/8072",
+   "href_artist": "https://www.energyfm.ru/artist/id/698",
+   "artist": "Jason DERULO",
+   "title": "When Love Sucks",
+   "image": "https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202305/21/2cf5d201b0fe2bc629a5add134fee035.jpg?w=250&h=250&pos=center&t=1685089134",
+   "date": {
+    "year": 2023,
+    "month": 5
+   },
+   "counter": 2,
+   "sort_string": "202305_2",
+   "added": "2023-06-10T02:41:42+00:00",
+   "spotify": {
+    "track": "spotify:track:59vMO9rkUuefwLMKzohNo5",
+    "album": "spotify:album:0BmbK3Ayd0Q9BWOCQYOdQw",
+    "image": "https://i.scdn.co/image/ab67616d0000b273028b9a72c08db84217babfb0"
+   }
   }
  },
  "sandbox": {
@@ -27601,7 +27639,7 @@
   "has_new_tracks": true,
   "finished": "2021-07-23T09:00:18+00:00",
   "page": 1,
-  "partly_parsed": "2023-06-09T02:53:38+00:00",
+  "partly_parsed": "2023-06-10T02:41:42+00:00",
   "last_exit_clean": false
  }
 }
