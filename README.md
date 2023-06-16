@@ -20,6 +20,7 @@ The new tracks are also available on https://www.energyfm.ru/new_tracks
 ||Track|Date|
 |---|--------|---|
 |[<img src="/design/images/spacer.gif" />](https://www.energyfm.ru/track/uid/7498)|KEYLASH - Tonight|<a id="3" href="#3">2022, September</a>|
+|[<img src="https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202306/22/8a5d407e2f37c68da8edf3dd0da7db6c.jpg?w=250&h=250&pos=center&t=1685694880" />](https://www.energyfm.ru/track/8082)|PNAU - Stars|<a id="202306_1" href="#202306_1">2023, June</a>|
 |[<img src="https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202305/18/5e5dee8df6b5b575d0f493359b480433.jpg?w=250&h=250&pos=center&t=1683277107" />](https://www.energyfm.ru/track/8053)|R3HAB - Rock My Body|<a id="202305_4" href="#202305_4">2023, May</a>|
 |[<img src="https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202305/19/08715641cd58519478f1744f1b3c0cbf.jpg?w=250&h=250&pos=center&t=1683880382" />](https://www.energyfm.ru/track/8060)|MANESKIN - Baby Said|<a id="202305_3" href="#202305_3">2023, May</a>|
 |[<img src="https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202305/20/c6382a96a8f15b56ca754e33e70c1fa7.jpeg?w=250&h=250&pos=center&t=1684491878" />](https://www.energyfm.ru/track/8068)|DEEPEND - Sunny|<a id="202305_2" href="#202305_2">2023, May</a>|

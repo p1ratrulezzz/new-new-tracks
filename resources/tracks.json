@@ -1,5 +1,5 @@
 {
- "updated": "2023-06-15T02:38:08+00:00",
+ "updated": "2023-06-16T02:39:02+00:00",
  "tracks": {
   "6a4707fb": {
    "href": "https://www.energyfm.ru/track/uid/6874",
@@ -27632,6 +27632,25 @@
     "album": "spotify:album:0BmbK3Ayd0Q9BWOCQYOdQw",
     "image": "https://i.scdn.co/image/ab67616d0000b273028b9a72c08db84217babfb0"
    }
+  },
+  "301b056e": {
+   "href": "https://www.energyfm.ru/track/8082",
+   "href_artist": "https://www.energyfm.ru/artist/id/2257",
+   "artist": "PNAU",
+   "title": "Stars",
+   "image": "https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202306/22/8a5d407e2f37c68da8edf3dd0da7db6c.jpg?w=250&h=250&pos=center&t=1685694880",
+   "date": {
+    "year": 2023,
+    "month": 6
+   },
+   "counter": 1,
+   "sort_string": "202306_1",
+   "added": "2023-06-16T02:38:33+00:00",
+   "spotify": {
+    "track": "spotify:track:3mC64Smtz0xXvsa52ZM3Q9",
+    "album": "spotify:album:05fkFs9DM4TpNGaDotqF8O",
+    "image": "https://i.scdn.co/image/ab67616d0000b27329b5695ff811862bee8f221d"
+   }
   }
  },
  "sandbox": {
@@ -27639,7 +27658,7 @@
   "has_new_tracks": true,
   "finished": "2021-07-23T09:00:18+00:00",
   "page": 1,
-  "partly_parsed": "2023-06-15T02:37:42+00:00",
+  "partly_parsed": "2023-06-16T02:38:33+00:00",
   "last_exit_clean": false
  }
 }
