@@ -1,5 +1,5 @@
 {
- "updated": "2023-06-20T02:34:48+00:00",
+ "updated": "2023-06-21T02:35:20+00:00",
  "tracks": {
   "6a4707fb": {
    "href": "https://www.energyfm.ru/track/uid/6874",
@@ -27689,6 +27689,25 @@
     "album": "spotify:album:4UFvD76Cq9sBrNZtLEWkzD",
     "image": "https://i.scdn.co/image/ab67616d0000b273ac0a8adcefa71a55401de0f5"
    }
+  },
+  "67a30f1c": {
+   "href": "https://www.energyfm.ru/track/8094",
+   "href_artist": "https://www.energyfm.ru/artist/id/4780",
+   "artist": "SOUNDWAVES",
+   "title": "Easy Come Easy Go (La Vida)",
+   "image": "https://cdn2.energyfm.ru/proxy/vardata/modules/musicdb/files/202306/23/a5c8c6c7a1e44ffa53c153c331aecbd3.jpg?w=250&h=250&pos=center&t=1686305730",
+   "date": {
+    "year": 2023,
+    "month": 6
+   },
+   "counter": 1,
+   "sort_string": "202306_1",
+   "added": "2023-06-21T02:34:56+00:00",
+   "spotify": {
+    "track": "spotify:track:3j0NQEBjKF1tDvtVohDgwz",
+    "album": "spotify:album:344N6rlE2KjpFXHc8AcqdP",
+    "image": "https://i.scdn.co/image/ab67616d0000b273cf0c613f7beb1ff2a55fe98e"
+   }
   }
  },
  "sandbox": {
@@ -27696,7 +27715,7 @@
   "has_new_tracks": true,
   "finished": "2021-07-23T09:00:18+00:00",
   "page": 1,
-  "partly_parsed": "2023-06-20T02:34:24+00:00",
+  "partly_parsed": "2023-06-21T02:34:56+00:00",
   "last_exit_clean": false
  }
 }
