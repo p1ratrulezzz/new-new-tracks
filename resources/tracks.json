@@ -1,5 +1,5 @@
 {
- "updated": "2023-06-23T02:57:46+00:00",
+ "updated": "2023-06-24T02:56:55+00:00",
  "tracks": {
   "6a4707fb": {
    "href": "https://www.energyfm.ru/track/uid/6874",
@@ -27708,6 +27708,44 @@
     "album": "spotify:album:344N6rlE2KjpFXHc8AcqdP",
     "image": "https://i.scdn.co/image/ab67616d0000b273cf0c613f7beb1ff2a55fe98e"
    }
+  },
+  "7cd00904": {
+   "href": "https://www.energyfm.ru/track/8096",
+   "href_artist": "https://www.energyfm.ru/artist/id/1164",
+   "artist": "TIESTO",
+   "title": "Bet My Dollar",
+   "image": "https://cdn2.energyfm.ru/proxy/vardata/modules/musicdb/files/202306/24/133bd5ef581d12527340001dc7bacbe4.jpg?w=250&h=250&pos=center&t=1686827215",
+   "date": {
+    "year": 2023,
+    "month": 6
+   },
+   "counter": 1,
+   "sort_string": "202306_1",
+   "added": "2023-06-24T02:56:22+00:00",
+   "spotify": {
+    "track": "spotify:track:4TkWIoKGDdEbsEtWo7iAaa",
+    "album": "spotify:album:1Pl9ZGXwayXPg5qRVpYo74",
+    "image": "https://i.scdn.co/image/ab67616d0000b273cf8c47967e5c6bbc7dca5abb"
+   }
+  },
+  "da9d0c46": {
+   "href": "https://www.energyfm.ru/track/8091",
+   "href_artist": "https://www.energyfm.ru/artist/id/3293",
+   "artist": "RASSTER",
+   "title": "Listen To Your Heart",
+   "image": "https://cdn1.energyfm.ru/proxy/vardata/modules/musicdb/files/202306/23/b9c8fc1123dc85f0bc57d0f642c9fbd9.jpg?w=250&h=250&pos=center&t=1686305594",
+   "date": {
+    "year": 2023,
+    "month": 6
+   },
+   "counter": 2,
+   "sort_string": "202306_2",
+   "added": "2023-06-24T02:56:22+00:00",
+   "spotify": {
+    "track": "spotify:track:1eEItolbZXewGR671UZcWm",
+    "album": "spotify:album:3tkVH8EdZHuEYTptBLUz6I",
+    "image": "https://i.scdn.co/image/ab67616d0000b273fc1c515b695860fe451199ce"
+   }
   }
  },
  "sandbox": {
@@ -27715,7 +27753,7 @@
   "has_new_tracks": true,
   "finished": "2021-07-23T09:00:18+00:00",
   "page": 1,
-  "partly_parsed": "2023-06-23T02:57:17+00:00",
+  "partly_parsed": "2023-06-24T02:56:22+00:00",
   "last_exit_clean": false
  }
 }
