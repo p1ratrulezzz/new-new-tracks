@@ -1,5 +1,5 @@
 {
- "updated": "2023-07-07T02:55:41+00:00",
+ "updated": "2023-07-08T02:57:04+00:00",
  "tracks": {
   "6a4707fb": {
    "href": "https://www.energyfm.ru/track/uid/6874",
@@ -27803,6 +27803,44 @@
     "album": "spotify:album:7sjRFU0NZtRbPwAPDlvu8x",
     "image": "https://i.scdn.co/image/ab67616d0000b273bb57cb47f76af2c86d0c8dd1"
    }
+  },
+  "41ef0681": {
+   "href": "https://www.energyfm.ru/track/8111",
+   "href_artist": "https://www.energyfm.ru/artist/id/3763",
+   "artist": "KDDK",
+   "title": "Wildfire",
+   "image": "https://cdn2.energyfm.ru/proxy/vardata/modules/musicdb/files/202306/25/3221bca73e3daa9ed9d0f17d6f98cf16.jpg?w=250&h=250&pos=center&t=1687517789",
+   "date": {
+    "year": 2023,
+    "month": 6
+   },
+   "counter": 1,
+   "sort_string": "202306_1",
+   "added": "2023-07-08T02:56:40+00:00",
+   "spotify": {
+    "track": "spotify:track:1oY8EBcQDkMJXqHMzlOkVY",
+    "album": "spotify:album:21BzNyOT1LpR7h2JatFKEi",
+    "image": "https://i.scdn.co/image/ab67616d0000b2732df128a5c3e2aa951b896fd9"
+   }
+  },
+  "f6b50cca": {
+   "href": "https://www.energyfm.ru/track/8116",
+   "href_artist": "https://www.energyfm.ru/artist/id/3836",
+   "artist": "Robert CRISTIAN",
+   "title": "The Day Before",
+   "image": "https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202306/25/65767eca68b163618dfd9d9308981fda.jpg?w=250&h=250&pos=center&t=1687517857",
+   "date": {
+    "year": 2023,
+    "month": 6
+   },
+   "counter": 2,
+   "sort_string": "202306_2",
+   "added": "2023-07-08T02:56:40+00:00",
+   "spotify": {
+    "track": "spotify:track:4sgT3YohtsvMMxjYFdNitg",
+    "album": "spotify:album:6UqdI6JTogB4GJhwdfOuw0",
+    "image": "https://i.scdn.co/image/ab67616d0000b273835e113578aa090e033845ee"
+   }
   }
  },
  "sandbox": {
@@ -27810,7 +27848,7 @@
   "has_new_tracks": true,
   "finished": "2021-07-23T09:00:18+00:00",
   "page": 1,
-  "partly_parsed": "2023-07-07T02:55:21+00:00",
+  "partly_parsed": "2023-07-08T02:56:40+00:00",
   "last_exit_clean": false
  }
 }
