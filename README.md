@@ -20,8 +20,10 @@ The new tracks are also available on https://www.energyfm.ru/new_tracks
 ||Track|Date|
 |---|--------|---|
 |[<img src="/design/images/spacer.gif" />](https://www.energyfm.ru/track/uid/7498)|KEYLASH - Tonight|<a id="3" href="#3">2022, September</a>|
+|[<img src="https://cdn2.energyfm.ru/proxy/vardata/modules/musicdb/files/202308/31/1efadc16f55b48bdd9a4e381f7dd1a13.jpg?w=250&h=250&pos=center&t=1691182205" />](https://www.energyfm.ru/track/8187)|Calvin HARRIS - Desire|<a id="202308_2" href="#202308_2">2023, August</a>|
 |[<img src="https://cdn2.energyfm.ru/proxy/vardata/modules/musicdb/files/202308/31/1b31c0f1d35701d8ba51019c62b3200d.jpg?w=250&h=250&pos=center&t=1691182374" />](https://www.energyfm.ru/track/8197)|JAIN - Makeba|<a id="202308_1" href="#202308_1">2023, August</a>|
 |[<img src="https://cdn1.energyfm.ru/proxy/vardata/modules/musicdb/files/202308/31/4ef52ae533758d8ba91241450a76209d.jpg?w=250&h=250&pos=center&t=1691182306" />](https://www.energyfm.ru/track/8192)|Troye SIVAN - Rush|<a id="202308_1" href="#202308_1">2023, August</a>|
+|[<img src="https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202308/32/ad8231bdbcefaf197c79869b15c290ff.jpg?w=250&h=250&pos=center&t=1691760259" />](https://www.energyfm.ru/track/8212)|IMANBEK - No Sleep|<a id="202308_1" href="#202308_1">2023, August</a>|
 |[<img src="https://cdn2.energyfm.ru/proxy/vardata/modules/musicdb/files/202307/28/71ad48a110332f95de33fb5a243000da.jpg?w=250&h=250&pos=center&t=1689327081" />](https://www.energyfm.ru/track/8131)|Jax JONES - Me And My Guitar|<a id="202307_3" href="#202307_3">2023, July</a>|
 |[<img src="https://cdn2.energyfm.ru/proxy/vardata/modules/musicdb/files/202307/30/e3322687a1791c5f6000cebff7dfa125.jpg?w=250&h=250&pos=center&t=1690535663" />](https://www.energyfm.ru/track/8186)|EVANGELIA - Let's Go MIA|<a id="202307_3" href="#202307_3">2023, July</a>|
 |[<img src="https://cdn2.energyfm.ru/proxy/vardata/modules/musicdb/files/202307/27/7516330c06c44edaff0de52143b5ebab.webp?w=250&h=250&pos=center&t=1688739634" />](https://www.energyfm.ru/track/8130)|Rita ORA - Don't Think Twice|<a id="202307_2" href="#202307_2">2023, July</a>|
