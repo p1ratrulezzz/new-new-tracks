@@ -1,5 +1,5 @@
 {
- "updated": "2023-09-19T02:19:59+00:00",
+ "updated": "2023-09-20T02:18:53+00:00",
  "tracks": {
   "6a4707fb": {
    "href": "https://www.energyfm.ru/track/uid/6874",
@@ -28437,6 +28437,25 @@
    "sort_string": "202309_2",
    "added": "2023-09-16T02:15:45+00:00",
    "spotify": {}
+  },
+  "8233093b": {
+   "href": "https://www.energyfm.ru/track/8302",
+   "href_artist": "https://www.energyfm.ru/artist/id/3203",
+   "artist": "Rompasso",
+   "title": "Deep Inside",
+   "image": "https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202309/36/697683775322f0d5f4f143da9f2f0704.jpg?w=250&h=250&pos=center&t=1694170427",
+   "date": {
+    "year": 2023,
+    "month": 9
+   },
+   "counter": 1,
+   "sort_string": "202309_1",
+   "added": "2023-09-20T02:18:25+00:00",
+   "spotify": {
+    "track": "spotify:track:65laXnKVQINCS0PsZKLuAi",
+    "album": "spotify:album:1Ouym40sIDnLBEwV18CorW",
+    "image": "https://i.scdn.co/image/ab67616d0000b2736b24c473dde62e477ebf906c"
+   }
   }
  },
  "sandbox": {
@@ -28444,7 +28463,7 @@
   "has_new_tracks": true,
   "finished": "2021-07-23T09:00:18+00:00",
   "page": 1,
-  "partly_parsed": "2023-09-19T02:19:36+00:00",
+  "partly_parsed": "2023-09-20T02:18:25+00:00",
   "last_exit_clean": false
  }
 }
