@@ -1,5 +1,5 @@
 {
- "updated": "2023-09-26T02:20:02+00:00",
+ "updated": "2023-09-27T02:19:39+00:00",
  "tracks": {
   "6a4707fb": {
    "href": "https://www.energyfm.ru/track/uid/6874",
@@ -28494,6 +28494,25 @@
     "album": "spotify:album:0iveF55RhHxTp2IB8vxoTH",
     "image": "https://i.scdn.co/image/ab67616d0000b27373c74efc28418808844d85d0"
    }
+  },
+  "af2a1319": {
+   "href": "https://www.energyfm.ru/track/8307",
+   "href_artist": "https://www.energyfm.ru/artist/id/4932",
+   "artist": "DAASHA",
+   "title": "\u041b\u0435\u0442\u043e \u041b\u0435\u0442\u0430\u0439",
+   "image": "https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202309/37/bdd06099273e20f17c8d7a8d59e9b2c8.jpg?w=250&h=250&pos=center&t=1694769632",
+   "date": {
+    "year": 2023,
+    "month": 9
+   },
+   "counter": 1,
+   "sort_string": "202309_1",
+   "added": "2023-09-27T02:19:12+00:00",
+   "spotify": {
+    "track": "spotify:track:4Dca4YDzpIFqHokON3xyYB",
+    "album": "spotify:album:6ginWYPdOZoN3PNoIIGoDC",
+    "image": "https://i.scdn.co/image/ab67616d0000b27324155a6f066cedd3fb404ed3"
+   }
   }
  },
  "sandbox": {
@@ -28501,7 +28520,7 @@
   "has_new_tracks": true,
   "finished": "2021-07-23T09:00:18+00:00",
   "page": 1,
-  "partly_parsed": "2023-09-26T02:19:32+00:00",
+  "partly_parsed": "2023-09-27T02:19:12+00:00",
   "last_exit_clean": false
  }
 }
