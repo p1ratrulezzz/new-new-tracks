@@ -1,5 +1,5 @@
 {
- "updated": "2023-10-13T02:23:23+00:00",
+ "updated": "2023-10-14T02:16:51+00:00",
  "tracks": {
   "6a4707fb": {
    "href": "https://www.energyfm.ru/track/uid/6874",
@@ -28623,6 +28623,44 @@
     "album": "spotify:album:0XUnacNOPhOEbdXAsInTpv",
     "image": "https://i.scdn.co/image/ab67616d0000b27315a615ef95ec2e8fde11582a"
    }
+  },
+  "80570933": {
+   "href": "https://www.energyfm.ru/track/8342",
+   "href_artist": "https://www.energyfm.ru/artist/id/4707",
+   "artist": "SVEA",
+   "title": "Dead Man Walking",
+   "image": "https://cdn1.energyfm.ru/proxy/vardata/modules/musicdb/files/202310/40/33601c88e6a2a11c2cc05028f84c16b8.jpeg?w=250&h=250&pos=center&t=1696324735",
+   "date": {
+    "year": 2023,
+    "month": 10
+   },
+   "counter": 1,
+   "sort_string": "202310_1",
+   "added": "2023-10-14T02:16:25+00:00",
+   "spotify": {
+    "track": "spotify:track:098ioFbTKKZMHLiUKHnyfN",
+    "album": "spotify:album:2nCz1ek9QvNY0FTtkODoV6",
+    "image": "https://i.scdn.co/image/ab67616d0000b273f9db295e90105f94a2cb7248"
+   }
+  },
+  "57a4077f": {
+   "href": "https://www.energyfm.ru/track/8331",
+   "href_artist": "https://www.energyfm.ru/artist/id/2923",
+   "artist": "J BALVIN",
+   "title": "Dientes",
+   "image": "https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202309/39/843e3d81af2b6ad18641b4dc72b2a0d4.jpg?w=250&h=250&pos=center&t=1695991496",
+   "date": {
+    "year": 2023,
+    "month": 9
+   },
+   "counter": 2,
+   "sort_string": "202309_2",
+   "added": "2023-10-14T02:16:25+00:00",
+   "spotify": {
+    "track": "spotify:track:4vAMy0dxoyoIHGuIgKqcwm",
+    "album": "spotify:album:6GkydlRWHz1bNVuVV9cD9O",
+    "image": "https://i.scdn.co/image/ab67616d0000b27365333e97834f81914f53910c"
+   }
   }
  },
  "sandbox": {
@@ -28630,7 +28668,7 @@
   "has_new_tracks": true,
   "finished": "2021-07-23T09:00:18+00:00",
   "page": 1,
-  "partly_parsed": "2023-10-13T02:22:57+00:00",
+  "partly_parsed": "2023-10-14T02:16:25+00:00",
   "last_exit_clean": false
  }
 }
