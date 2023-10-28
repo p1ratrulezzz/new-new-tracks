@@ -1,5 +1,5 @@
 {
- "updated": "2023-10-27T02:18:30+00:00",
+ "updated": "2023-10-28T02:16:48+00:00",
  "tracks": {
   "6a4707fb": {
    "href": "https://www.energyfm.ru/track/uid/6874",
@@ -28718,6 +28718,44 @@
     "album": "spotify:album:2cMtG6iuA7hXGNb4DHVql4",
     "image": "https://i.scdn.co/image/ab67616d0000b273eea05c7a8e47b3b88a09668e"
    }
+  },
+  "aa560ab4": {
+   "href": "https://www.energyfm.ru/track/8369",
+   "href_artist": "https://www.energyfm.ru/artist/id/4965",
+   "artist": "EDEL",
+   "title": "You Fucked My Friend",
+   "image": "https://cdn2.energyfm.ru/proxy/vardata/modules/musicdb/files/202310/41/0cee8f0458d20096ac8bfe11775e8675.jpg?w=250&h=250&pos=center&t=1697186614",
+   "date": {
+    "year": 2023,
+    "month": 10
+   },
+   "counter": 1,
+   "sort_string": "202310_1",
+   "added": "2023-10-28T02:16:23+00:00",
+   "spotify": {
+    "track": "spotify:track:4bDs0qVVwwE8NheaxIZTD2",
+    "album": "spotify:album:233gKTyjjyVBRA3VHItjPF",
+    "image": "https://i.scdn.co/image/ab67616d0000b2738a4c04abf8c1ae283d7d0aca"
+   }
+  },
+  "3cba0618": {
+   "href": "https://www.energyfm.ru/track/8374",
+   "href_artist": "https://www.energyfm.ru/artist/id/4969",
+   "artist": "DEZKO",
+   "title": "Ascend",
+   "image": "https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202310/41/9c0870bd205701908d440cbfb7645922.jpg?w=250&h=250&pos=center&t=1697186685",
+   "date": {
+    "year": 2023,
+    "month": 10
+   },
+   "counter": 2,
+   "sort_string": "202310_2",
+   "added": "2023-10-28T02:16:23+00:00",
+   "spotify": {
+    "track": "spotify:track:7IQpBTAbSpmk2LqpefwXPx",
+    "album": "spotify:album:7oDbZCBpmWjIZRxpoFmkXD",
+    "image": "https://i.scdn.co/image/ab67616d0000b273eee9b3a97adcf463b383b95d"
+   }
   }
  },
  "sandbox": {
@@ -28725,7 +28763,7 @@
   "has_new_tracks": true,
   "finished": "2021-07-23T09:00:18+00:00",
   "page": 1,
-  "partly_parsed": "2023-10-27T02:18:04+00:00",
+  "partly_parsed": "2023-10-28T02:16:23+00:00",
   "last_exit_clean": false
  }
 }
