@@ -1,5 +1,5 @@
 {
- "updated": "2023-11-10T02:22:14+00:00",
+ "updated": "2023-11-11T02:51:09+00:00",
  "tracks": {
   "6a4707fb": {
    "href": "https://www.energyfm.ru/track/uid/6874",
@@ -28794,6 +28794,44 @@
     "album": "spotify:album:2RfJhw7ge51dinrgOe6gSL",
     "image": "https://i.scdn.co/image/ab67616d0000b273cd074cc1d77ef0b7dfd24562"
    }
+  },
+  "b3f90af1": {
+   "href": "https://www.energyfm.ru/track/8395",
+   "href_artist": "https://www.energyfm.ru/artist/id/3419",
+   "artist": "HOLY MOLLY",
+   "title": "Freaks In Town",
+   "image": "https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202310/43/5ae712aec29d98458c01c681f01d618d.jpg?w=250&h=250&pos=center&t=1698407565",
+   "date": {
+    "year": 2023,
+    "month": 10
+   },
+   "counter": 1,
+   "sort_string": "202310_1",
+   "added": "2023-11-11T02:50:46+00:00",
+   "spotify": {
+    "track": "spotify:track:2XbfCpQpmkrJKIjuIKhFs3",
+    "album": "spotify:album:45ZPxkBKBznmXvBphMfAVG",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a96ab2c089f4030924d248d0"
+   }
+  },
+  "2f650554": {
+   "href": "https://www.energyfm.ru/track/8380",
+   "href_artist": "https://www.energyfm.ru/artist/id/2257",
+   "artist": "PNAU",
+   "title": "Aeiou",
+   "image": "https://cdn2.energyfm.ru/proxy/vardata/modules/musicdb/files/202310/42/f0e041af5597b17dba323bfbc9a21090.jpeg?w=250&h=250&pos=center&t=1697799140",
+   "date": {
+    "year": 2023,
+    "month": 10
+   },
+   "counter": 2,
+   "sort_string": "202310_2",
+   "added": "2023-11-11T02:50:46+00:00",
+   "spotify": {
+    "track": "spotify:track:5I8YyKG5iIdOiuTFnX9YVC",
+    "album": "spotify:album:2F00Hw4CHbhTPMeUllX8Oc",
+    "image": "https://i.scdn.co/image/ab67616d0000b2737305f804030af948ff5664ae"
+   }
   }
  },
  "sandbox": {
@@ -28801,7 +28839,7 @@
   "has_new_tracks": true,
   "finished": "2021-07-23T09:00:18+00:00",
   "page": 1,
-  "partly_parsed": "2023-11-10T02:21:48+00:00",
+  "partly_parsed": "2023-11-11T02:50:46+00:00",
   "last_exit_clean": false
  }
 }
