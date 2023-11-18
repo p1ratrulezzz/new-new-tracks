@@ -1,5 +1,5 @@
 {
- "updated": "2023-11-17T02:25:48+00:00",
+ "updated": "2023-11-18T02:23:49+00:00",
  "tracks": {
   "6a4707fb": {
    "href": "https://www.energyfm.ru/track/uid/6874",
@@ -28832,6 +28832,25 @@
     "album": "spotify:album:2F00Hw4CHbhTPMeUllX8Oc",
     "image": "https://i.scdn.co/image/ab67616d0000b2737305f804030af948ff5664ae"
    }
+  },
+  "67830831": {
+   "href": "https://www.energyfm.ru/track/8390",
+   "href_artist": "https://www.energyfm.ru/artist/id/4955",
+   "artist": "LU KALA",
+   "title": "Hotter Now",
+   "image": "https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202310/43/d8f464a2472a6e5019c31e011e8f53bc.jpg?w=250&h=250&pos=center&t=1698406922",
+   "date": {
+    "year": 2023,
+    "month": 10
+   },
+   "counter": 1,
+   "sort_string": "202310_1",
+   "added": "2023-11-18T02:23:27+00:00",
+   "spotify": {
+    "track": "spotify:track:4BIyKFJ2pgh3eY7Hc4Ce0k",
+    "album": "spotify:album:7yYUYzfzUGWPkqY1crWBlh",
+    "image": "https://i.scdn.co/image/ab67616d0000b273daad65d707f4247991c52878"
+   }
   }
  },
  "sandbox": {
@@ -28839,7 +28858,7 @@
   "has_new_tracks": true,
   "finished": "2021-07-23T09:00:18+00:00",
   "page": 1,
-  "partly_parsed": "2023-11-17T02:25:23+00:00",
+  "partly_parsed": "2023-11-18T02:23:27+00:00",
   "last_exit_clean": false
  }
 }
