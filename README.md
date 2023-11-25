@@ -20,6 +20,7 @@ The new tracks are also available on https://www.energyfm.ru/new_tracks
 ||Track|Date|
 |---|--------|---|
 |[<img src="/design/images/spacer.gif" />](https://www.energyfm.ru/track/uid/7498)|KEYLASH - Tonight|<a id="3" href="#3">2022, September</a>|
+|[<img src="https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202311/44/4ee3f2d11cb3fba751528226391b93e8.jpg?w=250&h=250&pos=center&t=1699008980" />](https://www.energyfm.ru/track/8416)|Teddy SWIMS - Lose Control|<a id="202311_1" href="#202311_1">2023, November</a>|
 |[<img src="https://cdn1.energyfm.ru/proxy/vardata/modules/musicdb/files/202310/40/59070348473dc7d5f0eaea5d5b82458e.jpg?w=250&h=250&pos=center&t=1696582158" />](https://www.energyfm.ru/track/8347)|LATTO - Lottery|<a id="202310_2" href="#202310_2">2023, October</a>|
 |[<img src="https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202310/41/9c0870bd205701908d440cbfb7645922.jpg?w=250&h=250&pos=center&t=1697186685" />](https://www.energyfm.ru/track/8374)|DEZKO - Ascend|<a id="202310_2" href="#202310_2">2023, October</a>|
 |[<img src="https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202310/42/5dc44a0a98f885f2957ad19ef2d0e937.jpg?w=250&h=250&pos=center&t=1697633927" />](https://www.energyfm.ru/track/8375)|Robin SCHULZ - Memories|<a id="202310_2" href="#202310_2">2023, October</a>|
