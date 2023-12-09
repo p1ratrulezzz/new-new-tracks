@@ -1,5 +1,5 @@
 {
- "updated": "2023-12-08T02:26:47+00:00",
+ "updated": "2023-12-09T02:23:29+00:00",
  "tracks": {
   "6a4707fb": {
    "href": "https://www.energyfm.ru/track/uid/6874",
@@ -28908,6 +28908,25 @@
     "album": "spotify:album:2axYqSKAhWaN60ijTZ0XXg",
     "image": "https://i.scdn.co/image/ab67616d0000b273249f764814d57dc5dfc462c7"
    }
+  },
+  "c0c40b43": {
+   "href": "https://www.energyfm.ru/track/8424",
+   "href_artist": "https://www.energyfm.ru/artist/id/3514",
+   "artist": "DOJA CAT",
+   "title": "Paint The Town Red",
+   "image": "https://cdn2.energyfm.ru/proxy/vardata/modules/musicdb/files/202311/45/4f2db72b6826c593f65d1bf2b6bf6313.jpg?w=250&h=250&pos=center&t=1699606629",
+   "date": {
+    "year": 2023,
+    "month": 11
+   },
+   "counter": 1,
+   "sort_string": "202311_1",
+   "added": "2023-12-09T02:23:05+00:00",
+   "spotify": {
+    "track": "spotify:track:56y1jOTK0XSvJzVv9vHQBK",
+    "album": "spotify:album:1bBez9PNvkJPW08bU7NYta",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a840032f14ab22da396e43cb"
+   }
   }
  },
  "sandbox": {
@@ -28915,7 +28934,7 @@
   "has_new_tracks": true,
   "finished": "2021-07-23T09:00:18+00:00",
   "page": 1,
-  "partly_parsed": "2023-12-08T02:26:26+00:00",
+  "partly_parsed": "2023-12-09T02:23:05+00:00",
   "last_exit_clean": false
  }
 }
