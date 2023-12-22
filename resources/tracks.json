@@ -1,5 +1,5 @@
 {
- "updated": "2023-12-21T02:25:35+00:00",
+ "updated": "2023-12-22T02:23:58+00:00",
  "tracks": {
   "6a4707fb": {
    "href": "https://www.energyfm.ru/track/uid/6874",
@@ -25842,7 +25842,11 @@
    "counter": 1,
    "sort_string": "202210_1",
    "added": "2022-10-18T04:19:53+00:00",
-   "spotify": {}
+   "spotify": {
+    "track": "spotify:track:5QNEOgLN0AUn8DGyqhr4qf",
+    "album": "spotify:album:4slXWseJB9pbojoLwgwwaq",
+    "image": "https://i.scdn.co/image/ab67616d0000b273babee784a549969078a21547"
+   }
   },
   "ba3d0b55": {
    "href": "https://www.energyfm.ru/track/uid/7548",
@@ -26803,7 +26807,11 @@
    "counter": 1,
    "sort_string": "202303_1",
    "added": "2023-03-11T02:33:26+00:00",
-   "spotify": {}
+   "spotify": {
+    "track": "spotify:track:3i0FkJYlU4MFfYkjFHXXAM",
+    "album": "spotify:album:3Uq1jNGnD412ZvCb6j2DKV",
+    "image": "https://i.scdn.co/image/ab67616d0000b27350a1691fbbfb693a5171d600"
+   }
   },
   "8e7a09b6": {
    "href": "https://www.energyfm.ru/track/7858",
@@ -27931,7 +27939,11 @@
    "counter": 2,
    "sort_string": "202307_2",
    "added": "2023-07-29T02:23:59+00:00",
-   "spotify": {}
+   "spotify": {
+    "track": "spotify:track:17LWs11Pit0FRdwPjOqNPG",
+    "album": "spotify:album:2AnUZTaynPGDDVLhUhfrMQ",
+    "image": "https://i.scdn.co/image/ab67616d0000b2735392e427f1c68769c36bef16"
+   }
   },
   "76660841": {
    "href": "https://www.energyfm.ru/track/8140",
@@ -28679,7 +28691,11 @@
    "counter": 1,
    "sort_string": "202310_1",
    "added": "2023-10-19T02:19:20+00:00",
-   "spotify": {}
+   "spotify": {
+    "track": "spotify:track:0SDeRncYFKK7Q0taUn6KNk",
+    "album": "spotify:album:4L55NyxwQbWNzerZaxhaZt",
+    "image": "https://i.scdn.co/image/ab67616d0000b2739bac546bb43812a922ea8584"
+   }
   },
   "35350593": {
    "href": "https://www.energyfm.ru/track/8365",
@@ -28972,7 +28988,7 @@
   "has_new_tracks": true,
   "finished": "2021-07-23T09:00:18+00:00",
   "page": 1,
-  "partly_parsed": "2023-12-21T02:25:00+00:00",
+  "partly_parsed": "2023-12-22T02:23:40+00:00",
   "last_exit_clean": false
  }
 }
