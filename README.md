@@ -20,7 +20,9 @@ The new tracks are also available on https://www.energyfm.ru/new_tracks
 ||Track|Date|
 |---|--------|---|
 |[<img src="/design/images/spacer.gif" />](https://www.energyfm.ru/track/uid/7498)|KEYLASH - Tonight|<a id="3" href="#3">2022, September</a>|
+|[<img src="https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202401/03/8ca41329d85ba6ff513f7f6dbd6c60b7.jpg?w=250&h=250&pos=center&t=1705674981" />](https://www.energyfm.ru/track/8479)|The KNOCKS - One On One|<a id="202401_1" href="#202401_1">2024, January</a>|
 |[<img src="https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202312/48/af96fcd67784422f4cff015b4c9d9948.jpg?w=250&h=250&pos=center&t=1701428274" />](https://www.energyfm.ru/track/8445)|DUA LIPA - Houdini|<a id="202312_2" href="#202312_2">2023, December</a>|
+|[<img src="https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202312/52/2d66c158dc2bd4d15660882b9445a7fe.jpg?w=250&h=250&pos=center&t=1703587990" />](https://www.energyfm.ru/track/8471)|Felix JAEHN - Still Fall|<a id="202312_2" href="#202312_2">2023, December</a>|
 |[<img src="https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202312/48/bc6f7f59177893a2ac77b1c60b084ff5.jpg?w=250&h=250&pos=center&t=1701430146" />](https://www.energyfm.ru/track/8450)|ZERB - Mwaki|<a id="202312_1" href="#202312_1">2023, December</a>|
 |[<img src="https://cdn2.energyfm.ru/proxy/vardata/modules/musicdb/files/202312/49/3289fe9c086df084ffb4b4b4833b657e.jpg?w=250&h=250&pos=center&t=1702034412" />](https://www.energyfm.ru/track/8454)|The ROLLING STONES - Mess It Up|<a id="202312_1" href="#202312_1">2023, December</a>|
 |[<img src="https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202312/50/d75c5d7fef77a358fda2ee64faba4d67.jpg?w=250&h=250&pos=center&t=1702305617" />](https://www.energyfm.ru/track/8455)|David GUETTA - When We Were Young|<a id="202312_1" href="#202312_1">2023, December</a>|
