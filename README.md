@@ -20,6 +20,9 @@ The new tracks are also available on https://www.energyfm.ru/new_tracks
 ||Track|Date|
 |---|--------|---|
 |[<img src="/design/images/spacer.gif" />](https://www.energyfm.ru/track/uid/7498)|KEYLASH - Tonight|<a id="3" href="#3">2022, September</a>|
+|[<img src="https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202402/05/3fc720d4e7e672ebb7052c606b4b5a71.jpg?w=250&h=250&pos=center&t=1706866706" />](https://www.energyfm.ru/track/8489)|Ron MAY - Country|<a id="202402_1" href="#202402_1">2024, February</a>|
+|[<img src="https://cdn1.energyfm.ru/proxy/vardata/modules/musicdb/files/202401/03/86ca0c6bfa997c85551cf0e63ea61c81.jpg?w=250&h=250&pos=center&t=1705659722" />](https://www.energyfm.ru/track/8474)|Mackenzie ARROMBA - Underwater|<a id="202401_3" href="#202401_3">2024, January</a>|
+|[<img src="https://cdn1.energyfm.ru/proxy/vardata/modules/musicdb/files/202401/04/9480e248e0e51f0b47ea72e26ac8ea94.jpg?w=250&h=250&pos=center&t=1706384144" />](https://www.energyfm.ru/track/8484)|MARSHMELLO - Dreaming|<a id="202401_2" href="#202401_2">2024, January</a>|
 |[<img src="https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202401/03/8ca41329d85ba6ff513f7f6dbd6c60b7.jpg?w=250&h=250&pos=center&t=1705674981" />](https://www.energyfm.ru/track/8479)|The KNOCKS - One On One|<a id="202401_1" href="#202401_1">2024, January</a>|
 |[<img src="https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202312/48/af96fcd67784422f4cff015b4c9d9948.jpg?w=250&h=250&pos=center&t=1701428274" />](https://www.energyfm.ru/track/8445)|DUA LIPA - Houdini|<a id="202312_2" href="#202312_2">2023, December</a>|
 |[<img src="https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202312/52/2d66c158dc2bd4d15660882b9445a7fe.jpg?w=250&h=250&pos=center&t=1703587990" />](https://www.energyfm.ru/track/8471)|Felix JAEHN - Still Fall|<a id="202312_2" href="#202312_2">2023, December</a>|
