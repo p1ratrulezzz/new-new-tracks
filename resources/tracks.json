@@ -1,5 +1,5 @@
 {
- "updated": "2024-04-02T02:22:34+00:00",
+ "updated": "2024-04-03T02:20:18+00:00",
  "tracks": {
   "6a4707fb": {
    "href": "https://www.energyfm.ru/track/uid/6874",
@@ -24399,6 +24399,7 @@
   },
   "aa1f0a94": {
    "href": "https://www.energyfm.ru/track/uid/7211",
+   "href_artist": "https://www.energyfm.ru/artist/id/4246",
    "artist": "GLASS ANIMALS",
    "title": "Heat Waves",
    "image": "https://cdn2.energyfm.ru/proxy/vardata/modules/musicdb/files/202203/11/36bab545e7a483f7c419ad76388b1f63.png?w=200&h=200&pos=center&t=1647591690",
@@ -29456,6 +29457,215 @@
     "album": "spotify:album:2HxzXLKO0AvkScWYHSspQc",
     "image": "https://i.scdn.co/image/ab67616d0000b27357732f3a97f6d356b547cf1e"
    }
+  },
+  "60b707c1": {
+   "href": "https://www.energyfm.ru/track/8702",
+   "href_artist": "https://www.energyfm.ru/artist/id/1720",
+   "artist": "LOREEN",
+   "title": "Is It Love",
+   "image": "https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202404/14/24b149910939c52ac71a65c02699c14b.webp?w=250&h=250&pos=center&t=1712049775",
+   "date": {
+    "year": 2024,
+    "month": 4
+   },
+   "counter": 1,
+   "sort_string": "202404_1",
+   "added": "2024-04-03T02:19:58+00:00",
+   "spotify": {
+    "track": "spotify:track:2lRhyOicN7ePTFC2fI5XiD",
+    "album": "spotify:album:1R3WqFfbwCstl1DsOFUMAT",
+    "image": "https://i.scdn.co/image/ab67616d0000b2731114aa18fd27547b13e63ff6"
+   }
+  },
+  "5d4d078f": {
+   "href": "https://www.energyfm.ru/track/8697",
+   "href_artist": "https://www.energyfm.ru/artist/id/3763",
+   "artist": "KDDK",
+   "title": "Living A Lie",
+   "image": "https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202404/14/d3672f4e95f65f56b9ee7d5d644148ff.jpeg?w=250&h=250&pos=center&t=1712049085",
+   "date": {
+    "year": 2024,
+    "month": 4
+   },
+   "counter": 2,
+   "sort_string": "202404_2",
+   "added": "2024-04-03T02:19:58+00:00",
+   "spotify": {
+    "track": "spotify:track:77H8M7s2uh3fJwp0BNxcjL",
+    "album": "spotify:album:75o649ybug3WgmzQjZmzLm",
+    "image": "https://i.scdn.co/image/ab67616d0000b27341a2eb3116d2c7ec8bb4457e"
+   }
+  },
+  "81740926": {
+   "href": "https://www.energyfm.ru/track/8700",
+   "href_artist": "https://www.energyfm.ru/artist/id/3047",
+   "artist": "LAUV",
+   "title": "Love U Like That",
+   "image": "https://cdn2.energyfm.ru/proxy/vardata/modules/musicdb/files/202404/14/e56a5d8ff89062038c163d52ad74e9ac.webp?w=250&h=250&pos=center&t=1712049587",
+   "date": {
+    "year": 2024,
+    "month": 4
+   },
+   "counter": 3,
+   "sort_string": "202404_3",
+   "added": "2024-04-03T02:19:58+00:00",
+   "spotify": {
+    "track": "spotify:track:5aYEQLm02WlSlaOv5g6sZo",
+    "album": "spotify:album:1Y8FqfEHHJpEEYx3HPIa9m",
+    "image": "https://i.scdn.co/image/ab67616d0000b273faa4205ed087c4aa929752cb"
+   }
+  },
+  "881c0951": {
+   "href": "https://www.energyfm.ru/track/8694",
+   "href_artist": "https://www.energyfm.ru/artist/id/2386",
+   "artist": "Felix JAEHN",
+   "title": "Waking Up",
+   "image": "https://cdn2.energyfm.ru/proxy/vardata/modules/musicdb/files/202404/14/333835d9636d0857808d1468dc2227a9.webp?w=250&h=250&pos=center&t=1712048939",
+   "date": {
+    "year": 2024,
+    "month": 4
+   },
+   "counter": 4,
+   "sort_string": "202404_4",
+   "added": "2024-04-03T02:19:58+00:00",
+   "spotify": {
+    "track": "spotify:track:2eYw2v771lwzFUQ9sSBGpK",
+    "album": "spotify:album:1QZ1DFVR4DNchZMURegY1H",
+    "image": "https://i.scdn.co/image/ab67616d0000b27351db78cbec8a6cb17a2a7f0b"
+   }
+  },
+  "9bf10a12": {
+   "href": "https://www.energyfm.ru/track/8689",
+   "href_artist": "https://www.energyfm.ru/artist/id/3220",
+   "artist": "Benjamin Ingrosso",
+   "title": "Kite",
+   "image": "https://cdn1.energyfm.ru/proxy/vardata/modules/musicdb/files/202404/14/39e51cf326ca98073b2b32fc25cf3620.webp?w=250&h=250&pos=center&t=1712048725",
+   "date": {
+    "year": 2024,
+    "month": 4
+   },
+   "counter": 5,
+   "sort_string": "202404_5",
+   "added": "2024-04-03T02:19:58+00:00",
+   "spotify": {
+    "track": "spotify:track:045GxgxGzYKrRO9JYpdrRF",
+    "album": "spotify:album:5V8AiauhMri5kPpnck4MYo",
+    "image": "https://i.scdn.co/image/ab67616d0000b27322c934db7dca65fe2047ea67"
+   }
+  },
+  "4b2206f3": {
+   "href": "https://www.energyfm.ru/track/8687",
+   "href_artist": "https://www.energyfm.ru/artist/id/5112",
+   "artist": "ILLIT",
+   "title": "Magnetic",
+   "image": "https://cdn1.energyfm.ru/proxy/vardata/modules/musicdb/files/202404/14/076b08792dab144de01d4a4adf9aa466.webp?w=250&h=250&pos=center&t=1712046736",
+   "date": {
+    "year": 2024,
+    "month": 4
+   },
+   "counter": 6,
+   "sort_string": "202404_6",
+   "added": "2024-04-03T02:19:58+00:00",
+   "spotify": {
+    "track": "spotify:track:4AcAYJr7ma4bdcni86Kp7I",
+    "album": "spotify:album:11jrnA9QDULaGEJ5sPYEoe",
+    "image": "https://i.scdn.co/image/ab67616d0000b273717cf7aa2d2f2fb2a87a469d"
+   }
+  },
+  "f580d45": {
+   "href": "https://www.energyfm.ru/track/8684",
+   "href_artist": "https://www.energyfm.ru/artist/id/2164",
+   "artist": "Ariana GRANDE",
+   "title": "We Can't Be Friends",
+   "image": "https://cdn1.energyfm.ru/proxy/vardata/modules/musicdb/files/202404/14/feeaa9d12e9e2598343e2ef75804bf22.webp?w=250&h=250&pos=center&t=1712046523",
+   "date": {
+    "year": 2024,
+    "month": 4
+   },
+   "counter": 7,
+   "sort_string": "202404_7",
+   "added": "2024-04-03T02:19:58+00:00",
+   "spotify": {
+    "track": "spotify:track:46kspZSY3aKmwQe7O77fCC",
+    "album": "spotify:album:71PfP4E9roOXAudea1aPGw",
+    "image": "https://i.scdn.co/image/ab67616d0000b273c75a14e746ffe2030e8cd5da"
+   }
+  },
+  "5dae07cf": {
+   "href": "https://www.energyfm.ru/track/8674",
+   "href_artist": "https://www.energyfm.ru/artist/id/2360",
+   "artist": "GALANTIS",
+   "title": "Lighter",
+   "image": "https://cdn2.energyfm.ru/proxy/vardata/modules/musicdb/files/202404/14/fe7d634428366e430126599aee3a0ad2.webp?w=250&h=250&pos=center&t=1712048027",
+   "date": {
+    "year": 2024,
+    "month": 4
+   },
+   "counter": 9,
+   "sort_string": "202404_9",
+   "added": "2024-04-03T02:19:58+00:00",
+   "spotify": {
+    "track": "spotify:track:7hdNTegC0TCKKoxB6GTFH3",
+    "album": "spotify:album:2cmZbWwfMq8VCGN4gqCZn7",
+    "image": "https://i.scdn.co/image/ab67616d0000b273c93daad3fd7acf20168abdb9"
+   }
+  },
+  "86240952": {
+   "href": "https://www.energyfm.ru/track/8670",
+   "href_artist": "https://www.energyfm.ru/artist/id/2456",
+   "artist": "Alle FARBEN",
+   "title": "Love Hurt",
+   "image": "https://cdn2.energyfm.ru/proxy/vardata/modules/musicdb/files/202404/14/3b1f45f4d982f58710893919c1e7651e.webp?w=250&h=250&pos=center&t=1711985966",
+   "date": {
+    "year": 2024,
+    "month": 4
+   },
+   "counter": 10,
+   "sort_string": "202404_10",
+   "added": "2024-04-03T02:19:58+00:00",
+   "spotify": {
+    "track": "spotify:track:601pOTGkiTqGFpAtphsZDx",
+    "album": "spotify:album:3egxqN0wJ8CMeVbtRZYN3s",
+    "image": "https://i.scdn.co/image/ab67616d0000b2738d3d9eb3c1e74fc595a07e96"
+   }
+  },
+  "e7aa0cb3": {
+   "href": "https://www.energyfm.ru/track/8667",
+   "href_artist": "https://www.energyfm.ru/artist/id/5099",
+   "artist": "Benson Boone",
+   "title": "Beautiful Things",
+   "image": "https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202404/14/e2169d70b14db5d3606ab6e2dc82d36f.webp?w=250&h=250&pos=center&t=1711985546",
+   "date": {
+    "year": 2024,
+    "month": 4
+   },
+   "counter": 11,
+   "sort_string": "202404_11",
+   "added": "2024-04-03T02:19:58+00:00",
+   "spotify": {
+    "track": "spotify:track:7rJkmoGkKjLMIPI9qUQnSy",
+    "album": "spotify:album:5KZ5cuVY1oLvHI1ecqoUJP",
+    "image": "https://i.scdn.co/image/ab67616d0000b273207eff257681334642a5dd92"
+   }
+  },
+  "1d570dc3": {
+   "href": "https://www.energyfm.ru/track/8664",
+   "href_artist": "https://www.energyfm.ru/artist/id/5104",
+   "artist": "ARTEMAS",
+   "title": "I Like The Way You Kiss Me",
+   "image": "https://cdn0.energyfm.ru/proxy/vardata/modules/musicdb/files/202404/14/4e2127b7b02de7c988c3170e967369b6.webp?w=250&h=250&pos=center&t=1711985378",
+   "date": {
+    "year": 2024,
+    "month": 4
+   },
+   "counter": 12,
+   "sort_string": "202404_12",
+   "added": "2024-04-03T02:19:58+00:00",
+   "spotify": {
+    "track": "spotify:track:3oRoMXsP2NRzm51lldj1RO",
+    "album": "spotify:album:45Qix7gFNajr6IofEIhhE4",
+    "image": "https://i.scdn.co/image/ab67616d0000b273c88e6a4447087f41eb388b14"
+   }
   }
  },
  "sandbox": {
@@ -29463,7 +29673,7 @@
   "has_new_tracks": true,
   "finished": "2021-07-23T09:00:18+00:00",
   "page": 1,
-  "partly_parsed": "2024-04-02T02:22:11+00:00",
+  "partly_parsed": "2024-04-03T02:19:58+00:00",
   "last_exit_clean": false
  }
 }
