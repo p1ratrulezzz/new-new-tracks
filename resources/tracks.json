@@ -1,5 +1,5 @@
 {
- "updated": "2024-06-19T02:17:10+00:00",
+ "updated": "2024-06-20T02:15:54+00:00",
  "tracks": {
   "6a4707fb": {
    "href": "https://www.energyfm.ru/track/uid/6874",
@@ -30194,6 +30194,44 @@
     "album": "spotify:album:3MS98RpRmeMZjjffoKUGln",
     "image": "https://i.scdn.co/image/ab67616d0000b273b1a0a2fbc307fd07ecce6e08"
    }
+  },
+  "497a06a8": {
+   "href": "https://www.energyfm.ru/track/8851",
+   "href_artist": "https://www.energyfm.ru/artist/id/5177",
+   "artist": "KAMRAD",
+   "title": "So Good",
+   "image": "https://cdn1.energyfm.ru/proxy/vardata/modules/musicdb/files/202406/23/c5a474bf65e28bf76cc5953351f21d03.webp?w=250&h=250&pos=center&t=1717594356",
+   "date": {
+    "year": 2024,
+    "month": 6
+   },
+   "counter": 1,
+   "sort_string": "202406_1",
+   "added": "2024-06-20T02:15:33+00:00",
+   "spotify": {
+    "track": "spotify:track:2XTSjtPIN0PzfJEfdceNaN",
+    "album": "spotify:album:6GfhI8EKNPVEfplLMaINV5",
+    "image": "https://i.scdn.co/image/ab67616d0000b273b6fbe180c3f2b6fd6e1158c3"
+   }
+  },
+  "780908b6": {
+   "href": "https://www.energyfm.ru/track/8847",
+   "href_artist": "https://www.energyfm.ru/artist/id/3296",
+   "artist": "Billie EILISH",
+   "title": "LUNCH",
+   "image": "https://cdn2.energyfm.ru/proxy/vardata/modules/musicdb/files/202406/23/6151e816db2ebf92f80084f6f6ec1b49.webp?w=250&h=250&pos=center&t=1717594272",
+   "date": {
+    "year": 2024,
+    "month": 6
+   },
+   "counter": 2,
+   "sort_string": "202406_2",
+   "added": "2024-06-20T02:15:33+00:00",
+   "spotify": {
+    "track": "spotify:track:629DixmZGHc7ILtEntuiWE",
+    "album": "spotify:album:7aJuG4TFXa2hmE4z1yxc3n",
+    "image": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62"
+   }
   }
  },
  "sandbox": {
@@ -30201,7 +30239,7 @@
   "has_new_tracks": true,
   "finished": "2021-07-23T09:00:18+00:00",
   "page": 1,
-  "partly_parsed": "2024-06-19T02:16:44+00:00",
+  "partly_parsed": "2024-06-20T02:15:33+00:00",
   "last_exit_clean": false
  }
 }
