@@ -1,5 +1,5 @@
 {
- "updated": "2024-07-17T02:17:44+00:00",
+ "updated": "2024-07-18T02:17:17+00:00",
  "tracks": {
   "6a4707fb": {
    "href": "https://www.energyfm.ru/track/uid/6874",
@@ -22555,7 +22555,11 @@
    "counter": 1287,
    "sort_string": "201601_1287",
    "added": "2021-07-23T09:00:18+00:00",
-   "spotify": {}
+   "spotify": {
+    "track": "spotify:track:4DshFHL2nd75IOPUGrhF9L",
+    "album": "spotify:album:6l3oxMKGb8YyJ7ZbmaDELC",
+    "image": "https://i.scdn.co/image/ab67616d0000b273597ea344385b30d19af45ae7"
+   }
   },
   "5d8707ed": {
    "href": "https://www.energyfm.ru/track/uid/4887",
@@ -30060,7 +30064,11 @@
    "counter": 1,
    "sort_string": "202405_1",
    "added": "2024-05-30T02:15:27+00:00",
-   "spotify": {}
+   "spotify": {
+    "track": "spotify:track:4pkb8SbRGeHAvdb87v9rpf",
+    "album": "spotify:album:5gWV4yp27HCbXJ1YLe8hQM",
+    "image": "https://i.scdn.co/image/ab67616d0000b27300ac867eff7ed64be10a517c"
+   }
   },
   "9ad90a4a": {
    "href": "https://www.energyfm.ru/track/8811",
@@ -30322,7 +30330,11 @@
    "counter": 2,
    "sort_string": "202406_2",
    "added": "2024-07-09T02:17:04+00:00",
-   "spotify": {}
+   "spotify": {
+    "track": "spotify:track:2BFnfCnAW6O1a1vZ8NZvkO",
+    "album": "spotify:album:0q0asrBrmBwrRMXeqxDvBY",
+    "image": "https://i.scdn.co/image/ab67616d0000b273b0bf32206ef8fc2ac30dea7b"
+   }
   },
   "67890818": {
    "href": "https://www.energyfm.ru/track/8893",
@@ -30368,7 +30380,7 @@
   "has_new_tracks": true,
   "finished": "2021-07-23T09:00:18+00:00",
   "page": 1,
-  "partly_parsed": "2024-07-17T02:17:25+00:00",
+  "partly_parsed": "2024-07-18T02:16:58+00:00",
   "last_exit_clean": false
  }
 }
