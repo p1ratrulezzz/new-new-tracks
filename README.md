@@ -20,6 +20,10 @@ The new tracks are also available on https://www.energyfm.ru/new_tracks
 ||Track|Date|
 |---|--------|---|
 |[<img src="/design/images/spacer.gif" />](https://www.energyfm.ru/track/uid/7498)|KEYLASH - Tonight|<a id="3" href="#3">2022, September</a>|
+|[<img src="https://101.ru/proxy/vardata/modules/musicdb/files/202408/33/979561f2c8665bdc474ca6fb37526717.png?w=250&h=250&pos=center&t=1724721803" />](https://www.energyfm.ru/track/858633)|Cyril - True|<a id="202408_3" href="#202408_3">2024, August</a>|
+|[<img src="https://101.ru/proxy/vardata/modules/musicdb/files/202408/33/e1a2681b4aa733f95b016d66be7db934.jpg?w=250&h=250&pos=center&t=1724721803" />](https://www.energyfm.ru/track/858634)|Clean Bandit - Cry Baby|<a id="202408_2" href="#202408_2">2024, August</a>|
+|[<img src="https://101.ru/proxy/vardata/modules/musicdb/files/202408/31/46db3eac52b66e7c9e2184828b0f6683.jpeg?w=250&h=250&pos=center&t=1724723600" />](https://www.energyfm.ru/track/855850)|Jimin - Who|<a id="202408_1" href="#202408_1">2024, August</a>|
+|[<img src="https://101.ru/proxy/vardata/modules/musicdb/files/202407/30/6c765ca931bbe7747a9428b7376f9a20.jpeg?w=250&h=250&pos=center&t=1724723025" />](https://www.energyfm.ru/track/855688)|Alesso - I Like It|<a id="202407_4" href="#202407_4">2024, July</a>|
 |[<img src="https://cdn1.energyfm.ru/proxy/vardata/modules/musicdb/files/202407/27/3aac747023e8e4eaad31df49452e3356.png?w=250&h=250&pos=center&t=1720000703" />](https://www.energyfm.ru/track/8898)|SOPHIE AND THE GIANTS - Shut Up And Dance|<a id="202407_3" href="#202407_3">2024, July</a>|
 |[<img src="https://cdn1.energyfm.ru/proxy/vardata/modules/musicdb/files/202407/29/0b6a552edc177e6163d868a95cd60b25.jpg?w=250&h=250&pos=center&t=1721045200" />](https://www.energyfm.ru/track/8913)|Cloudy June - Crazy Woman|<a id="202407_3" href="#202407_3">2024, July</a>|
 |[<img src="https://101.ru/proxy/vardata/modules/musicdb/files/202407/30/51109c4bf1c5d77d276e52b84727c2a2.jpeg?w=250&h=250&pos=center&t=1722564326" />](https://www.energyfm.ru/track/855705)|Zivert - мутки|<a id="202407_3" href="#202407_3">2024, July</a>|
