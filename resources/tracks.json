@@ -1,5 +1,5 @@
 {
- "updated": "2024-11-07T02:25:47+00:00",
+ "updated": "2024-11-08T02:25:56+00:00",
  "tracks": {
   "6a4707fb": {
    "href": "https://www.energyfm.ru/track/uid/6874",
@@ -31313,6 +31313,25 @@
     "album": "spotify:album:0edaiVumHgKoTUCTfQXMuw",
     "image": "https://i.scdn.co/image/ab67616d0000b27354edef3a089727a9cebe1b5e"
    }
+  },
+  "adf50ade": {
+   "href": "https://www.energyfm.ru/track/861874",
+   "href_artist": "https://www.energyfm.ru/artist/id/47315",
+   "artist": "Meghan Trainor",
+   "title": "Criminals",
+   "image": "https://101.ru/proxy/vardata/modules/musicdb/files/202410/43/3b2a8780597e3ea8a6524ebf3b82e8d1.png?w=250&h=250&pos=center&t=1731029656",
+   "date": {
+    "year": 2024,
+    "month": 10
+   },
+   "counter": 1,
+   "sort_string": "202410_1",
+   "added": "2024-11-08T02:25:38+00:00",
+   "spotify": {
+    "track": "spotify:track:2AReybVlJuRmHyA08sx1XC",
+    "album": "spotify:album:5IZjhAtil5TzQSxSt6hHiR",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e14f3d61782e3e877c46c5a4"
+   }
   }
  },
  "sandbox": {
@@ -31320,7 +31339,7 @@
   "has_new_tracks": true,
   "finished": "2021-07-23T09:00:18+00:00",
   "page": 1,
-  "partly_parsed": "2024-11-07T02:25:20+00:00",
+  "partly_parsed": "2024-11-08T02:25:38+00:00",
   "last_exit_clean": false
  }
 }
