@@ -1,5 +1,5 @@
 {
- "updated": "2024-11-08T02:25:56+00:00",
+ "updated": "2024-11-09T02:22:46+00:00",
  "tracks": {
   "6a4707fb": {
    "href": "https://www.energyfm.ru/track/uid/6874",
@@ -31332,6 +31332,44 @@
     "album": "spotify:album:5IZjhAtil5TzQSxSt6hHiR",
     "image": "https://i.scdn.co/image/ab67616d0000b273e14f3d61782e3e877c46c5a4"
    }
+  },
+  "c19c0b8a": {
+   "href": "https://www.energyfm.ru/track/861792",
+   "href_artist": "https://www.energyfm.ru/artist/id/54175",
+   "artist": "David Guetta",
+   "title": "Forever Young",
+   "image": "https://101.ru/proxy/vardata/modules/musicdb/files/202410/43/9d6521e56f3798c8ac49c47f075a790b.jpeg?w=250&h=250&pos=center&t=1731118312",
+   "date": {
+    "year": 2024,
+    "month": 10
+   },
+   "counter": 1,
+   "sort_string": "202410_1",
+   "added": "2024-11-09T02:22:22+00:00",
+   "spotify": {
+    "track": "spotify:track:3bg2qahpZmsg5wV2EMPXIk",
+    "album": "spotify:album:5a450MS1eKGQQAsqgvsZ6J",
+    "image": "https://i.scdn.co/image/ab67616d0000b273417f8c5927888d7ee97cb05a"
+   }
+  },
+  "93fc09ad": {
+   "href": "https://www.energyfm.ru/track/861875",
+   "href_artist": "https://www.energyfm.ru/artist/id/108",
+   "artist": "Flo Rida",
+   "title": "When I Grow Up",
+   "image": "https://101.ru/proxy/vardata/modules/musicdb/files/202410/43/17be88272323bc7235735ab35091b043.jpg?w=250&h=250&pos=center&t=1731118903",
+   "date": {
+    "year": 2024,
+    "month": 10
+   },
+   "counter": 2,
+   "sort_string": "202410_2",
+   "added": "2024-11-09T02:22:22+00:00",
+   "spotify": {
+    "track": "spotify:track:1cIaSr7h6QW7wtYHPaNNEG",
+    "album": "spotify:album:4UpqatPW80d6DwnRhJ3sTR",
+    "image": "https://i.scdn.co/image/ab67616d0000b2735ef3c9a61e8ba89aaa481903"
+   }
   }
  },
  "sandbox": {
@@ -31339,7 +31377,7 @@
   "has_new_tracks": true,
   "finished": "2021-07-23T09:00:18+00:00",
   "page": 1,
-  "partly_parsed": "2024-11-08T02:25:38+00:00",
+  "partly_parsed": "2024-11-09T02:22:22+00:00",
   "last_exit_clean": false
  }
 }
