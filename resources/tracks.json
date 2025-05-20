@@ -1,5 +1,5 @@
 {
- "updated": "2025-05-19T02:36:10+00:00",
+ "updated": "2025-05-20T02:34:28+00:00",
  "tracks": {
   "6a4707fb": {
    "href": "https://www.energyfm.ru/track/uid/6874",
@@ -32362,6 +32362,44 @@
     "album": "spotify:album:5yPu6XkHu8DAGmV6YkXYZq",
     "image": "https://i.scdn.co/image/ab67616d0000b273ea29212b801087f18319c187"
    }
+  },
+  "e8080c99": {
+   "href": "https://www.energyfm.ru/track/867000",
+   "href_artist": "https://www.energyfm.ru/artist/id/219639",
+   "artist": "Benson Boone",
+   "title": "Mystical Magical",
+   "image": "https://101.ru/proxy/vardata/modules/musicdb/files/202505/19/d80b7a067e26e0a718d4750f1e0a9714.png?w=250&h=250&pos=center&t=1747706582",
+   "date": {
+    "year": 2025,
+    "month": 5
+   },
+   "counter": 1,
+   "sort_string": "202505_1",
+   "added": "2025-05-20T02:34:07+00:00",
+   "spotify": {
+    "track": "spotify:track:0qlTqKucPEgXrAcj2XV1UO",
+    "album": "spotify:album:375DxtZBqB4tHG82jTf984",
+    "image": "https://i.scdn.co/image/ab67616d0000b2731fc0ba4be173a9ba9b62dda4"
+   }
+  },
+  "71560876": {
+   "href": "https://www.energyfm.ru/track/865578",
+   "href_artist": "https://www.energyfm.ru/artist/id/160139",
+   "artist": "Fast Boy",
+   "title": "Born Again",
+   "image": "https://101.ru/proxy/vardata/modules/musicdb/files/202503/13/fb84ecb676c0eba13d2c49f9f5186823.jpeg?w=250&h=250&pos=center&t=1747707095",
+   "date": {
+    "year": 2025,
+    "month": 3
+   },
+   "counter": 2,
+   "sort_string": "202503_2",
+   "added": "2025-05-20T02:34:07+00:00",
+   "spotify": {
+    "track": "spotify:track:04S8gIcwrcm97fNZKtSGXX",
+    "album": "spotify:album:3sCDeEFzmAnapVbmkLGKmt",
+    "image": "https://i.scdn.co/image/ab67616d0000b27389f50812d5b6768583f50bd4"
+   }
   }
  },
  "sandbox": {
@@ -32369,7 +32407,7 @@
   "has_new_tracks": true,
   "finished": "2021-07-23T09:00:18+00:00",
   "page": 1,
-  "partly_parsed": "2025-05-19T02:35:43+00:00",
+  "partly_parsed": "2025-05-20T02:34:07+00:00",
   "last_exit_clean": false
  }
 }
