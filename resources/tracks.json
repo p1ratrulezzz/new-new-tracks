@@ -1,5 +1,5 @@
 {
- "updated": "2025-06-16T02:38:18+00:00",
+ "updated": "2025-06-17T02:35:50+00:00",
  "tracks": {
   "6a4707fb": {
    "href": "https://www.energyfm.ru/track/uid/6874",
@@ -32571,6 +32571,63 @@
     "album": "spotify:album:5awEnPUdqgYwqsc33hPk52",
     "image": "https://i.scdn.co/image/ab67616d0000b2734ba976bec2d9619b6a88aad2"
    }
+  },
+  "7fba0f90": {
+   "href": "https://www.energyfm.ru/track/867762",
+   "href_artist": "https://www.energyfm.ru/artist/id/51657",
+   "artist": "Purple Disco Machine",
+   "title": "Wonderful Life '25",
+   "image": "https://101.ru/proxy/vardata/modules/musicdb/files/202506/23/0b8fd7df7b776ffba429edae00f09298.jpg?w=250&h=250&pos=center&t=1750125253",
+   "date": {
+    "year": 2025,
+    "month": 6
+   },
+   "counter": 1,
+   "sort_string": "202506_1",
+   "added": "2025-06-17T02:35:26+00:00",
+   "spotify": {
+    "track": "spotify:track:3HiwSiBqwXHy20VUVv44We",
+    "album": "spotify:album:1AF8ip6XRTWQkN1y5rQm2a",
+    "image": "https://i.scdn.co/image/ab67616d0000b2733dbbe5de36bb57b7f00d65bb"
+   }
+  },
+  "8b970963": {
+   "href": "https://www.energyfm.ru/track/866824",
+   "href_artist": "https://www.energyfm.ru/artist/id/25884",
+   "artist": "Rudimental",
+   "title": "All I Know",
+   "image": "https://101.ru/proxy/vardata/modules/musicdb/files/202504/16/ae3032984e55c86e928c33c94c28d54e.jpeg?w=250&h=250&pos=center&t=1750127698",
+   "date": {
+    "year": 2025,
+    "month": 4
+   },
+   "counter": 2,
+   "sort_string": "202504_2",
+   "added": "2025-06-17T02:35:26+00:00",
+   "spotify": {
+    "track": "spotify:track:2rgWhlzASxN4MKk7c3RAGP",
+    "album": "spotify:album:1TNPKEmo5TSj8NpXpDgMsf",
+    "image": "https://i.scdn.co/image/ab67616d0000b273b49c06ad21eb3676299728b6"
+   }
+  },
+  "5fff07a7": {
+   "href": "https://www.energyfm.ru/track/867187",
+   "href_artist": "https://www.energyfm.ru/artist/id/48642",
+   "artist": "Hugel",
+   "title": "Think Of Me",
+   "image": "https://101.ru/proxy/vardata/modules/musicdb/files/202505/20/5d5df08901b84861f4bdcdc60387be29.webp?w=250&h=250&pos=center&t=1750124957",
+   "date": {
+    "year": 2025,
+    "month": 5
+   },
+   "counter": 3,
+   "sort_string": "202505_3",
+   "added": "2025-06-17T02:35:26+00:00",
+   "spotify": {
+    "track": "spotify:track:3RvkuiK2x5BlSQWYqTYjIS",
+    "album": "spotify:album:6CjFvd1Oj0cljGm226jCvH",
+    "image": "https://i.scdn.co/image/ab67616d0000b2738a11d115df8366eff0d0f126"
+   }
   }
  },
  "sandbox": {
@@ -32578,7 +32635,7 @@
   "has_new_tracks": true,
   "finished": "2021-07-23T09:00:18+00:00",
   "page": 1,
-  "partly_parsed": "2025-06-16T02:37:58+00:00",
+  "partly_parsed": "2025-06-17T02:35:26+00:00",
   "last_exit_clean": false
  }
 }
