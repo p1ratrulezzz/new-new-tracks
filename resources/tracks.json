@@ -1,5 +1,5 @@
 {
- "updated": "2025-07-04T02:36:15+00:00",
+ "updated": "2025-07-05T02:34:38+00:00",
  "tracks": {
   "6a4707fb": {
    "href": "https://www.energyfm.ru/track/uid/6874",
@@ -32704,6 +32704,120 @@
     "album": "spotify:album:2bC3K77PMXaneqVDlxhybl",
     "image": "https://i.scdn.co/image/ab67616d0000b2732599a29535cff1d4aed81c4b"
    }
+  },
+  "83830945": {
+   "href": "https://www.energyfm.ru/track/868437",
+   "href_artist": "https://www.energyfm.ru/artist/id/231527",
+   "artist": "MAESIC",
+   "title": "Life is Simple",
+   "image": "https://101.ru/proxy/vardata/modules/musicdb/files/202507/27/9aae7b677b6dd5b278abc0969c29711f.png?w=250&h=250&pos=center&t=1751680104",
+   "date": {
+    "year": 2025,
+    "month": 7
+   },
+   "counter": 1,
+   "sort_string": "202507_1",
+   "added": "2025-07-05T02:34:16+00:00",
+   "spotify": {
+    "track": "spotify:track:2UtuOyOQ0VxF2sNZU12H3y",
+    "album": "spotify:album:7xCa8dTNt8T0y3opjZK9ir",
+    "image": "https://i.scdn.co/image/ab67616d0000b2734bb821c1aaab088e1df4e533"
+   }
+  },
+  "73b408b8": {
+   "href": "https://www.energyfm.ru/track/868144",
+   "href_artist": "https://www.energyfm.ru/artist/id/26884",
+   "artist": "Ed Sheeran",
+   "title": "Sapphire",
+   "image": "https://101.ru/proxy/vardata/modules/musicdb/files/202506/26/2645eca22a265319c70910edd9046e16.webp?w=250&h=250&pos=center&t=1751682363",
+   "date": {
+    "year": 2025,
+    "month": 6
+   },
+   "counter": 2,
+   "sort_string": "202506_2",
+   "added": "2025-07-05T02:34:16+00:00",
+   "spotify": {
+    "track": "spotify:track:0BwoDyo3WjAe8UeyDFKB8y",
+    "album": "spotify:album:3zO1mxuZ3CxtNgKCsPynwZ",
+    "image": "https://i.scdn.co/image/ab67616d0000b273244e12547c90f3f52053d5aa"
+   }
+  },
+  "c4120b7b": {
+   "href": "https://www.energyfm.ru/track/867801",
+   "href_artist": "https://www.energyfm.ru/artist/id/150581",
+   "artist": "Twocolors",
+   "title": "Head Above Water",
+   "image": "https://101.ru/proxy/vardata/modules/musicdb/files/202506/23/f9e77a2559a9904e198f4032870a4248.webp?w=250&h=250&pos=center&t=1751681557",
+   "date": {
+    "year": 2025,
+    "month": 6
+   },
+   "counter": 3,
+   "sort_string": "202506_3",
+   "added": "2025-07-05T02:34:16+00:00",
+   "spotify": {
+    "track": "spotify:track:1w9Mk87mUA4hhA2wJCuiB4",
+    "album": "spotify:album:2rfDpsXucFkMliiDm1UMhC",
+    "image": "https://i.scdn.co/image/ab67616d0000b2735779f6dc6a5e71f31efe8ec3"
+   }
+  },
+  "78920882": {
+   "href": "https://www.energyfm.ru/track/868215",
+   "href_artist": "https://www.energyfm.ru/artist/id/230985",
+   "artist": "Mark Dann",
+   "title": "Let me die",
+   "image": "https://101.ru/proxy/vardata/modules/musicdb/files/202506/26/bac37f51a520399a3774e1bb5712ec4c.webp?w=250&h=250&pos=center&t=1751681310",
+   "date": {
+    "year": 2025,
+    "month": 6
+   },
+   "counter": 4,
+   "sort_string": "202506_4",
+   "added": "2025-07-05T02:34:16+00:00",
+   "spotify": {
+    "track": "spotify:track:5u4uE1cuvoieudzvQmprdb",
+    "album": "spotify:album:2fyg3ZkpWDSZntTtpwWIU9",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a47e809d36e2018c246dca36"
+   }
+  },
+  "14130d62": {
+   "href": "https://www.energyfm.ru/track/868216",
+   "href_artist": "https://www.energyfm.ru/artist/id/39383",
+   "artist": "OneRepublic",
+   "title": "Starlight (The Fame)",
+   "image": "https://101.ru/proxy/vardata/modules/musicdb/files/202506/26/ade46934e4c26847a9edb3da5882b9b9.webp?w=250&h=250&pos=center&t=1751681558",
+   "date": {
+    "year": 2025,
+    "month": 6
+   },
+   "counter": 5,
+   "sort_string": "202506_5",
+   "added": "2025-07-05T02:34:16+00:00",
+   "spotify": {
+    "track": "spotify:track:2Rr9a2sxcTIe9xhfaEmFTL",
+    "album": "spotify:album:6GNKUJR0OQtwR9xUK6OVE4",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a230b7422f4ff24cd29b3486"
+   }
+  },
+  "a8610a74": {
+   "href": "https://www.energyfm.ru/track/867939",
+   "href_artist": "https://www.energyfm.ru/artist/id/136743",
+   "artist": "Don Toliver",
+   "title": "Lose my mind",
+   "image": "https://101.ru/proxy/vardata/modules/musicdb/files/202506/25/98a6cf02000a23441221fb29fa287f9f.webp?w=250&h=250&pos=center&t=1751679721",
+   "date": {
+    "year": 2025,
+    "month": 6
+   },
+   "counter": 6,
+   "sort_string": "202506_6",
+   "added": "2025-07-05T02:34:16+00:00",
+   "spotify": {
+    "track": "spotify:track:02BcXEH1zJYbXSabPtNlKf",
+    "album": "spotify:album:157Gano57F4G2EAWL5NKP8",
+    "image": "https://i.scdn.co/image/ab67616d0000b273bed9c7b9e33025a81d4d02e4"
+   }
   }
  },
  "sandbox": {
@@ -32711,7 +32825,7 @@
   "has_new_tracks": true,
   "finished": "2021-07-23T09:00:18+00:00",
   "page": 1,
-  "partly_parsed": "2025-07-04T02:35:50+00:00",
+  "partly_parsed": "2025-07-05T02:34:16+00:00",
   "last_exit_clean": false
  }
 }
