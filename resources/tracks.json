@@ -1,5 +1,5 @@
 {
- "updated": "2025-07-18T02:43:12+00:00",
+ "updated": "2025-07-19T02:38:05+00:00",
  "tracks": {
   "6a4707fb": {
    "href": "https://www.energyfm.ru/track/uid/6874",
@@ -5319,7 +5319,11 @@
    "counter": 303,
    "sort_string": "201909_303",
    "added": "2021-07-23T08:59:46+00:00",
-   "spotify": {}
+   "spotify": {
+    "track": "spotify:track:24Yi9hE78yPEbZ4kxyoXAI",
+    "album": "spotify:album:3GqSdhWjmMypMwPLtzoFYs",
+    "image": "https://i.scdn.co/image/ab67616d0000b273b340b496cb7c38d727ff40be"
+   }
   },
   "b4bc111d": {
    "href": "https://www.energyfm.ru/track/uid/6006",
@@ -6487,7 +6491,11 @@
    "counter": 369,
    "sort_string": "201903_369",
    "added": "2021-07-23T08:59:47+00:00",
-   "spotify": {}
+   "spotify": {
+    "track": "spotify:track:6WkJ2OK163XXS2oARUC9JM",
+    "album": "spotify:album:2J2f6vGACFrRghO1Ki74BE",
+    "image": "https://i.scdn.co/image/ab67616d0000b273f7a3a5656060030a0d24855c"
+   }
   },
   "806f092f": {
    "href": "https://www.energyfm.ru/track/uid/5937",
@@ -9799,7 +9807,11 @@
    "counter": 555,
    "sort_string": "201804_555",
    "added": "2021-07-23T08:59:53+00:00",
-   "spotify": {}
+   "spotify": {
+    "track": "spotify:track:5kUd13VPdlywFXvfDVFINd",
+    "album": "spotify:album:2iJ6oK1Y0yVRQvPL2txKAk",
+    "image": "https://i.scdn.co/image/ab67616d0000b2736f11fc90f8260716f69271b5"
+   }
   },
   "b68910ef": {
    "href": "https://www.energyfm.ru/track/uid/5745",
@@ -9963,7 +9975,11 @@
    "counter": 565,
    "sort_string": "201802_565",
    "added": "2021-07-23T08:59:53+00:00",
-   "spotify": {}
+   "spotify": {
+    "track": "spotify:track:2yXUF8zDI3emDwSSoLy8AR",
+    "album": "spotify:album:2cVEmfbwzsKIxJEypBPWhp",
+    "image": "https://i.scdn.co/image/ab67616d0000b273de8ea4117ea697c3ccf92b12"
+   }
   },
   "500b06fb": {
    "href": "https://www.energyfm.ru/track/uid/5733",
@@ -14289,7 +14305,11 @@
    "counter": 812,
    "sort_string": "201705_812",
    "added": "2021-07-23T09:00:00+00:00",
-   "spotify": {}
+   "spotify": {
+    "track": "spotify:track:5lm0YdC2A33aS5cItImmzf",
+    "album": "spotify:album:6VsjeHiEKC8R14Y5QMoGGC",
+    "image": "https://i.scdn.co/image/ab67616d0000b27362aab067d22a5a42589b0664"
+   }
   },
   "3ea60e87": {
    "href": "https://www.energyfm.ru/track/uid/5444",
@@ -22351,7 +22371,11 @@
    "counter": 1275,
    "sort_string": "201601_1275",
    "added": "2021-07-23T09:00:18+00:00",
-   "spotify": {}
+   "spotify": {
+    "track": "spotify:track:04CZixt6caB4D3abR5B1s7",
+    "album": "spotify:album:27X9A4OirWWtNOErFZ4mQ3",
+    "image": "https://i.scdn.co/image/ab67616d0000b273f55e6b53b1ac430f03599e54"
+   }
   },
   "f7c00cfd": {
    "href": "https://www.energyfm.ru/track/uid/4901",
@@ -23077,7 +23101,11 @@
    "counter": 1,
    "sort_string": "202109_1",
    "added": "2021-09-04T02:27:18+00:00",
-   "spotify": {}
+   "spotify": {
+    "track": "spotify:track:6JIC3hbC28JZKZ8AlAqX8h",
+    "album": "spotify:album:2Gd77sRs3Y8z8V08Hj6EzC",
+    "image": "https://i.scdn.co/image/ab67616d0000b273eb842acacb3238b2bf3b8471"
+   }
   },
   "21c70daa": {
    "href": "https://www.energyfm.ru/track/uid/6959",
@@ -23905,7 +23933,11 @@
    "counter": 1,
    "sort_string": "202201_1",
    "added": "2022-01-09T02:36:39+00:00",
-   "spotify": {}
+   "spotify": {
+    "track": "spotify:track:00jm45dmsxnn4GKoUxdkPy",
+    "album": "spotify:album:5aODgcXaNf9QnMSHCIRJ3s",
+    "image": "https://i.scdn.co/image/ab67616d0000b2733897a7272b83c0db42101f65"
+   }
   },
   "3f310640": {
    "href": "https://www.energyfm.ru/track/uid/7123",
@@ -28485,7 +28517,11 @@
    "counter": 2,
    "sort_string": "202309_2",
    "added": "2023-09-16T02:15:45+00:00",
-   "spotify": {}
+   "spotify": {
+    "track": "spotify:track:5eIoru6pCFw3trXYQA5jC8",
+    "album": "spotify:album:4wfxsGQgE4QVHPxWAeFj8l",
+    "image": "https://i.scdn.co/image/ab67616d0000b273192378e75870aea4ee54b6ce"
+   }
   },
   "8233093b": {
    "href": "https://www.energyfm.ru/track/8302",
@@ -32825,7 +32861,7 @@
   "has_new_tracks": true,
   "finished": "2021-07-23T09:00:18+00:00",
   "page": 1,
-  "partly_parsed": "2025-07-18T02:42:46+00:00",
+  "partly_parsed": "2025-07-19T02:37:40+00:00",
   "last_exit_clean": false
  }
 }
