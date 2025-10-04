@@ -1,5 +1,5 @@
 {
- "updated": "2025-10-03T02:29:17+00:00",
+ "updated": "2025-10-04T02:26:03+00:00",
  "tracks": {
   "6a4707fb": {
    "href": "https://www.energyfm.ru/track/uid/6874",
@@ -33299,6 +33299,44 @@
     "album": "spotify:album:78GNlv1Vj6M42zZM1ZWZn0",
     "image": "https://i.scdn.co/image/ab67616d0000b2738b2ce3e35e6befe926f05090"
    }
+  },
+  "9de109f1": {
+   "href": "https://www.energyfm.ru/track/869785",
+   "href_artist": "https://www.energyfm.ru/artist/id/40656",
+   "artist": "Lady GaGa",
+   "title": "The Dead Dance",
+   "image": "https://101.ru/proxy/vardata/modules/musicdb/files/202509/37/2c3904efcd899733d191e1de678e7a4a.jpg?w=250&h=250&pos=center&t=1759542984",
+   "date": {
+    "year": 2025,
+    "month": 9
+   },
+   "counter": 1,
+   "sort_string": "202509_1",
+   "added": "2025-10-04T02:25:34+00:00",
+   "spotify": {
+    "track": "spotify:track:5pobX21I8uZdHM8YOWItU7",
+    "album": "spotify:album:3ARwSvDQv2OHYnLeDC3Lxi",
+    "image": "https://i.scdn.co/image/ab67616d0000b2738d1cf82837651f08ac1ca1ca"
+   }
+  },
+  "a5bc0a70": {
+   "href": "https://www.energyfm.ru/track/869784",
+   "href_artist": "https://www.energyfm.ru/artist/id/81774",
+   "artist": "Sabrina Carpenter",
+   "title": "Tears",
+   "image": "https://101.ru/proxy/vardata/modules/musicdb/files/202509/37/85e80d6a79614485a8b70f8d263acbc3.jpg?w=250&h=250&pos=center&t=1759541568",
+   "date": {
+    "year": 2025,
+    "month": 9
+   },
+   "counter": 2,
+   "sort_string": "202509_2",
+   "added": "2025-10-04T02:25:34+00:00",
+   "spotify": {
+    "track": "spotify:track:5BXgoZuocyJJqujHtN6zFc",
+    "album": "spotify:album:3YUwSEib2ljtCTvqHj1dMI",
+    "image": "https://i.scdn.co/image/ab67616d0000b2736cbb38b10057f298f1275b46"
+   }
   }
  },
  "sandbox": {
@@ -33306,7 +33344,7 @@
   "has_new_tracks": true,
   "finished": "2021-07-23T09:00:18+00:00",
   "page": 1,
-  "partly_parsed": "2025-10-03T02:28:52+00:00",
+  "partly_parsed": "2025-10-04T02:25:34+00:00",
   "last_exit_clean": false
  }
 }
