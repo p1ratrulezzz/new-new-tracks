@@ -20,9 +20,11 @@ The new tracks are also available on https://www.energyfm.ru/new_tracks
 ||Track|Date|
 |---|--------|---|
 |[<img src="/design/images/spacer.gif" />](https://www.energyfm.ru/track/uid/7498)|KEYLASH - Tonight|<a id="3" href="#3">2022, September</a>|
+|[<img src="https://101.ru/proxy/vardata/modules/musicdb/files/202510/40/d750d27374603ea2e2d3af8d75bbdccd.jpeg?w=250&h=250&pos=center&t=1760838629" />](https://www.energyfm.ru/track/870342)|MOT - Одинок.Net|<a id="202510_1" href="#202510_1">2025, October</a>|
 |[<img src="https://101.ru/proxy/vardata/modules/musicdb/files/202509/38/bc63be095349ec1f1be1b8ef990e71d4.webp?w=250&h=250&pos=center&t=1760148833" />](https://www.energyfm.ru/track/870047)|HUNTR/X - Golden|<a id="202509_3" href="#202509_3">2025, September</a>|
 |[<img src="https://101.ru/proxy/vardata/modules/musicdb/files/202509/37/4c81989e9324b53085953f174e538eaf.jpg?w=250&h=250&pos=center&t=1758938018" />](https://www.energyfm.ru/track/869808)|Rita Ora - Joy|<a id="202509_2" href="#202509_2">2025, September</a>|
 |[<img src="https://101.ru/proxy/vardata/modules/musicdb/files/202509/37/85e80d6a79614485a8b70f8d263acbc3.jpg?w=250&h=250&pos=center&t=1759541568" />](https://www.energyfm.ru/track/869784)|Sabrina Carpenter - Tears|<a id="202509_2" href="#202509_2">2025, September</a>|
+|[<img src="https://101.ru/proxy/vardata/modules/musicdb/files/202509/37/4bab71d20e3af84af737de4fd0a0932c.jpg?w=250&h=250&pos=center&t=1760839237" />](https://www.energyfm.ru/track/869811)|Disco Lines - No Broke Boys|<a id="202509_2" href="#202509_2">2025, September</a>|
 |[<img src="https://101.ru/proxy/vardata/modules/musicdb/files/202509/37/b63dd27ca72bd44a5b6cd69415c59d0f.jpg?w=250&h=250&pos=center&t=1757727505" />](https://www.energyfm.ru/track/869809)|Vize - Wait (Alibi Blue)|<a id="202509_1" href="#202509_1">2025, September</a>|
 |[<img src="https://101.ru/proxy/vardata/modules/musicdb/files/202509/37/5711e80afbd0fbfe05bcdd0a337e1e6c.jpg?w=250&h=250&pos=center&t=1758939538" />](https://www.energyfm.ru/track/869786)|MONA - Иордан|<a id="202509_1" href="#202509_1">2025, September</a>|
 |[<img src="https://101.ru/proxy/vardata/modules/musicdb/files/202509/37/2c3904efcd899733d191e1de678e7a4a.jpg?w=250&h=250&pos=center&t=1759542984" />](https://www.energyfm.ru/track/869785)|Lady GaGa - The Dead Dance|<a id="202509_1" href="#202509_1">2025, September</a>|
