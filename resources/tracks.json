@@ -1,5 +1,5 @@
 {
- "updated": "2025-11-04T02:34:55+00:00",
+ "updated": "2025-11-05T02:35:15+00:00",
  "tracks": {
   "6a4707fb": {
    "href": "https://www.energyfm.ru/track/uid/6874",
@@ -17225,7 +17225,11 @@
    "counter": 976,
    "sort_string": "201611_976",
    "added": "2021-07-23T09:00:09+00:00",
-   "spotify": {}
+   "spotify": {
+    "track": "spotify:track:0qrtaHmZRor67ibNXqT6ki",
+    "album": "spotify:album:06I1nmCciz8rtxhM9BLhRu",
+    "image": "https://i.scdn.co/image/ab67616d0000b2731dbe4b143632081472052649"
+   }
   },
   "6e860883": {
    "href": "https://www.energyfm.ru/track/uid/5243",
@@ -33515,7 +33519,7 @@
   "has_new_tracks": true,
   "finished": "2021-07-23T09:00:18+00:00",
   "page": 1,
-  "partly_parsed": "2025-11-04T02:34:30+00:00",
+  "partly_parsed": "2025-11-05T02:34:48+00:00",
   "last_exit_clean": false
  }
 }
