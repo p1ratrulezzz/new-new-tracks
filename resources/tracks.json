@@ -1,5 +1,5 @@
 {
- "updated": "2025-11-28T02:34:47+00:00",
+ "updated": "2025-11-29T02:34:45+00:00",
  "tracks": {
   "6a4707fb": {
    "href": "https://www.energyfm.ru/track/uid/6874",
@@ -33626,6 +33626,25 @@
     "album": "spotify:album:0rPqjnwSsUN02r1YZU7kLC",
     "image": "https://i.scdn.co/image/ab67616d0000b273c4734db20a9a75ecad2247b3"
    }
+  },
+  "e340d6d": {
+   "href": "https://www.energyfm.ru/track/870354",
+   "href_artist": "https://www.energyfm.ru/artist/id/37464",
+   "artist": "Taylor Swift",
+   "title": "The Fate of Ophelia",
+   "image": "https://101.ru/proxy/vardata/modules/musicdb/files/202510/40/755be7572f99ef779dc2348c6e74e1a2.jpeg?w=250&h=250&pos=center&t=1764382349",
+   "date": {
+    "year": 2025,
+    "month": 10
+   },
+   "counter": 1,
+   "sort_string": "202510_1",
+   "added": "2025-11-29T02:34:07+00:00",
+   "spotify": {
+    "track": "spotify:track:3CFKUvybrj8Jg5F018tyuA",
+    "album": "spotify:album:264e9sevSUiitcQeM1y1C5",
+    "image": "https://i.scdn.co/image/ab67616d0000b2735a9197396cb52631e73364b9"
+   }
   }
  },
  "sandbox": {
@@ -33633,7 +33652,7 @@
   "has_new_tracks": true,
   "finished": "2021-07-23T09:00:18+00:00",
   "page": 1,
-  "partly_parsed": "2025-11-28T02:34:18+00:00",
+  "partly_parsed": "2025-11-29T02:34:07+00:00",
   "last_exit_clean": false
  }
 }
