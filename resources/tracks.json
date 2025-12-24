@@ -1,5 +1,5 @@
 {
- "updated": "2025-12-23T02:40:24+00:00",
+ "updated": "2025-12-24T02:38:40+00:00",
  "tracks": {
   "6a4707fb": {
    "href": "https://www.energyfm.ru/track/uid/6874",
@@ -33759,6 +33759,25 @@
     "album": "spotify:album:17w0kQfQhwj2ptpp0eFt3n",
     "image": "https://i.scdn.co/image/ab67616d0000b273701bf34e3af09d64799e6dd2"
    }
+  },
+  "e8280c74": {
+   "href": "https://www.energyfm.ru/track/871636",
+   "href_artist": "https://www.energyfm.ru/artist/id/58633",
+   "artist": "Loud Luxury",
+   "title": "LOVE YOU FOR LIFE",
+   "image": "https://101.ru/proxy/vardata/modules/musicdb/files/202512/50/77f5bcebcbcbb5477664ed14309e171d.webp?w=250&h=250&pos=center&t=1766543333",
+   "date": {
+    "year": 2025,
+    "month": 12
+   },
+   "counter": 1,
+   "sort_string": "202512_1",
+   "added": "2025-12-24T02:38:02+00:00",
+   "spotify": {
+    "track": "spotify:track:3acMyDFxlQ2O5l3c9pJeQ4",
+    "album": "spotify:album:26IKpReoGeXx69KVzI3M3n",
+    "image": "https://i.scdn.co/image/ab67616d0000b27334c242bf5febe4f7551f7ff1"
+   }
   }
  },
  "sandbox": {
@@ -33766,7 +33785,7 @@
   "has_new_tracks": true,
   "finished": "2021-07-23T09:00:18+00:00",
   "page": 1,
-  "partly_parsed": "2025-12-23T02:39:50+00:00",
+  "partly_parsed": "2025-12-24T02:38:02+00:00",
   "last_exit_clean": false
  }
 }
