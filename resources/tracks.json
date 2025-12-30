@@ -1,5 +1,5 @@
 {
- "updated": "2025-12-29T02:48:09+00:00",
+ "updated": "2025-12-30T02:41:08+00:00",
  "tracks": {
   "6a4707fb": {
    "href": "https://www.energyfm.ru/track/uid/6874",
@@ -33778,6 +33778,44 @@
     "album": "spotify:album:26IKpReoGeXx69KVzI3M3n",
     "image": "https://i.scdn.co/image/ab67616d0000b27334c242bf5febe4f7551f7ff1"
    }
+  },
+  "9cb60a18": {
+   "href": "https://www.energyfm.ru/track/871719",
+   "href_artist": "https://www.energyfm.ru/artist/id/236717",
+   "artist": "Toth Abigel",
+   "title": "Sugar Daddy",
+   "image": "https://101.ru/proxy/vardata/modules/musicdb/files/202512/51/8a2d4666618f2285fc2caf83d2ab7fd0.webp?w=250&h=250&pos=center&t=1767060385",
+   "date": {
+    "year": 2025,
+    "month": 12
+   },
+   "counter": 1,
+   "sort_string": "202512_1",
+   "added": "2025-12-30T02:40:33+00:00",
+   "spotify": {
+    "track": "spotify:track:4G9hKJB7NaWX6QFSpiEYCf",
+    "album": "spotify:album:7pkpbzts7WTxOjQBcWjH6r",
+    "image": "https://i.scdn.co/image/ab67616d0000b2733bd7b663ae6cb70e51bbd9b9"
+   }
+  },
+  "80360914": {
+   "href": "https://www.energyfm.ru/track/871718",
+   "href_artist": "https://www.energyfm.ru/artist/id/37266",
+   "artist": "Klangkarussell",
+   "title": "Ride",
+   "image": "https://101.ru/proxy/vardata/modules/musicdb/files/202512/51/88364bc90f0b1fb6256fcaca56c83acf.webp?w=250&h=250&pos=center&t=1767061345",
+   "date": {
+    "year": 2025,
+    "month": 12
+   },
+   "counter": 2,
+   "sort_string": "202512_2",
+   "added": "2025-12-30T02:40:33+00:00",
+   "spotify": {
+    "track": "spotify:track:2DimMk00BsDm19bbxTzY03",
+    "album": "spotify:album:2lti3xxEJ9Yta59kUAq0Eg",
+    "image": "https://i.scdn.co/image/ab67616d0000b273c45ed89929366b4b5f879e52"
+   }
   }
  },
  "sandbox": {
@@ -33785,7 +33823,7 @@
   "has_new_tracks": true,
   "finished": "2021-07-23T09:00:18+00:00",
   "page": 1,
-  "partly_parsed": "2025-12-29T02:47:40+00:00",
+  "partly_parsed": "2025-12-30T02:40:33+00:00",
   "last_exit_clean": false
  }
 }

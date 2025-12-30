@@ -20,7 +20,9 @@ The new tracks are also available on https://www.energyfm.ru/new_tracks
 ||Track|Date|
 |---|--------|---|
 |[<img src="/design/images/spacer.gif" />](https://www.energyfm.ru/track/uid/7498)|KEYLASH - Tonight|<a id="3" href="#3">2022, September</a>|
+|[<img src="https://101.ru/proxy/vardata/modules/musicdb/files/202512/51/88364bc90f0b1fb6256fcaca56c83acf.webp?w=250&h=250&pos=center&t=1767061345" />](https://www.energyfm.ru/track/871718)|Klangkarussell - Ride|<a id="202512_2" href="#202512_2">2025, December</a>|
 |[<img src="https://101.ru/proxy/vardata/modules/musicdb/files/202512/50/77f5bcebcbcbb5477664ed14309e171d.webp?w=250&h=250&pos=center&t=1766543333" />](https://www.energyfm.ru/track/871636)|Loud Luxury - LOVE YOU FOR LIFE|<a id="202512_1" href="#202512_1">2025, December</a>|
+|[<img src="https://101.ru/proxy/vardata/modules/musicdb/files/202512/51/8a2d4666618f2285fc2caf83d2ab7fd0.webp?w=250&h=250&pos=center&t=1767060385" />](https://www.energyfm.ru/track/871719)|Toth Abigel - Sugar Daddy|<a id="202512_1" href="#202512_1">2025, December</a>|
 |[<img src="https://101.ru/proxy/vardata/modules/musicdb/files/202511/47/191f940562c608fbdf0059336ebbc721.webp?w=250&h=250&pos=center&t=1766196104" />](https://www.energyfm.ru/track/871122)|Alle Farben - Baby Goodbye|<a id="202511_4" href="#202511_4">2025, November</a>|
 |[<img src="https://101.ru/proxy/vardata/modules/musicdb/files/202510/44/33941faf5d5f4a613839b33afa70fc2a.jpeg?w=250&h=250&pos=center&t=1766197632" />](https://www.energyfm.ru/track/870945)|Ed Sheeran - Camera (CYRIL Remix)|<a id="202510_5" href="#202510_5">2025, October</a>|
 |[<img src="https://101.ru/proxy/vardata/modules/musicdb/files/202510/42/e2b66ba0419ef3610ffa182c5d5853cd.webp?w=250&h=250&pos=center&t=1762392924" />](https://www.energyfm.ru/track/870582)|Felix Jaehn - NOW'S A GOOD TIME TO BE|<a id="202510_3" href="#202510_3">2025, October</a>|
