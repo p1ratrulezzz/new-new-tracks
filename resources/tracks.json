@@ -1,5 +1,5 @@
 {
- "updated": "2026-03-20T03:01:31+00:00",
+ "updated": "2026-03-21T02:56:55+00:00",
  "tracks": {
   "6a4707fb": {
    "href": "https://www.energyfm.ru/track/uid/6874",
@@ -34272,6 +34272,82 @@
     "album": "spotify:album:5yvxgPwdYkBvvblqTmkGKU",
     "image": "https://i.scdn.co/image/ab67616d0000b2735ad2f93e7d932771554308ab"
    }
+  },
+  "c79c0b6d": {
+   "href": "https://www.energyfm.ru/track/873511",
+   "href_artist": "https://www.energyfm.ru/artist/id/42227",
+   "artist": "Felix Jaehn",
+   "title": "Boy You Turn Me",
+   "image": "https://101.ru/proxy/vardata/modules/musicdb/files/202603/11/7fd627dcca650742a0875510192149a1.jpeg?w=250&h=250&pos=center&t=1774061220",
+   "date": {
+    "year": 2026,
+    "month": 3
+   },
+   "counter": 1,
+   "sort_string": "202603_1",
+   "added": "2026-03-21T02:56:24+00:00",
+   "spotify": {
+    "track": "spotify:track:5xM6Saib7CixujU8BFW2eN",
+    "album": "spotify:album:0yYcF3WuWkHIYpsyWUpRfA",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d3b876a63b71ef3097eb6abd"
+   }
+  },
+  "73d908da": {
+   "href": "https://www.energyfm.ru/track/873512",
+   "href_artist": "https://www.energyfm.ru/artist/id/220606",
+   "artist": "KAMRAD",
+   "title": "Hug Yourself",
+   "image": "https://101.ru/proxy/vardata/modules/musicdb/files/202603/11/832c3216f0223d1b084326803d8de551.jpeg?w=250&h=250&pos=center&t=1774059073",
+   "date": {
+    "year": 2026,
+    "month": 3
+   },
+   "counter": 2,
+   "sort_string": "202603_2",
+   "added": "2026-03-21T02:56:24+00:00",
+   "spotify": {
+    "track": "spotify:track:0wxptU4oakoC1OfPWcqgDc",
+    "album": "spotify:album:1bwJUNxQpND3xqgvUzWNz4",
+    "image": "https://i.scdn.co/image/ab67616d0000b273783789a3e2fface629ed4dbb"
+   }
+  },
+  "85650933": {
+   "href": "https://www.energyfm.ru/track/873509",
+   "href_artist": "https://www.energyfm.ru/artist/id/47341",
+   "artist": "Alle Farben",
+   "title": "Body Talk",
+   "image": "https://101.ru/proxy/vardata/modules/musicdb/files/202603/11/84850afa4cad22d761e51a84e1e64515.jpeg?w=250&h=250&pos=center&t=1774061513",
+   "date": {
+    "year": 2026,
+    "month": 3
+   },
+   "counter": 3,
+   "sort_string": "202603_3",
+   "added": "2026-03-21T02:56:24+00:00",
+   "spotify": {
+    "track": "spotify:track:2ejzE6eD1mP1JFk4qrBxbc",
+    "album": "spotify:album:2Xy0XjWMA3XQH3Wuh3dJ9y",
+    "image": "https://i.scdn.co/image/ab67616d0000b273588009677ca7505fee77083c"
+   }
+  },
+  "4eb906da": {
+   "href": "https://www.energyfm.ru/track/873482",
+   "href_artist": "https://www.energyfm.ru/artist/id/51175",
+   "artist": "ZAYN",
+   "title": "Die For Me",
+   "image": "https://101.ru/proxy/vardata/modules/musicdb/files/202603/10/accbcf9d5e77004d0cd9d8182ed878a5.webp?w=250&h=250&pos=center&t=1774059849",
+   "date": {
+    "year": 2026,
+    "month": 3
+   },
+   "counter": 4,
+   "sort_string": "202603_4",
+   "added": "2026-03-21T02:56:24+00:00",
+   "spotify": {
+    "track": "spotify:track:5OzT5jTe1iYonx6qttVY7k",
+    "album": "spotify:album:23p2Ctoaal10MDrJ7G7xTh",
+    "image": "https://i.scdn.co/image/ab67616d0000b2737b32aba7ccdcf47017ff8cce"
+   }
   }
  },
  "sandbox": {
@@ -34279,7 +34355,7 @@
   "has_new_tracks": true,
   "finished": "2021-07-23T09:00:18+00:00",
   "page": 1,
-  "partly_parsed": "2026-03-20T03:01:05+00:00",
+  "partly_parsed": "2026-03-21T02:56:24+00:00",
   "last_exit_clean": false
  }
 }
