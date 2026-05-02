@@ -20,6 +20,8 @@ The new tracks are also available on https://www.energyfm.ru/new_tracks
 ||Track|Date|
 |---|--------|---|
 |[<img src="/design/images/spacer.gif" />](https://www.energyfm.ru/track/uid/7498)|KEYLASH - Tonight|<a id="3" href="#3">2022, September</a>|
+|[<img src="https://101.ru/proxy/vardata/modules/musicdb/files/202604/14/d17e2cd2afa7078ec5c7fd0b15dcf4ff.jpg?w=250&h=250&pos=center&t=1777688611" />](https://www.energyfm.ru/track/873886)|Bob Sinclar - I Can’t Wait|<a id="202604_2" href="#202604_2">2026, April</a>|
+|[<img src="https://101.ru/proxy/vardata/modules/musicdb/files/202604/14/5d8b0437b7f2b2c573fdd7d309ca11e3.jpg?w=250&h=250&pos=center&t=1777689218" />](https://www.energyfm.ru/track/873892)|Mike Posner - I Went Back to Ibiza|<a id="202604_1" href="#202604_1">2026, April</a>|
 |[<img src="https://101.ru/proxy/vardata/modules/musicdb/files/202603/11/73acb17221bee366c36ac73189dcb13f.jpeg?w=250&h=250&pos=center&t=1774664669" />](https://www.energyfm.ru/track/873535)|Jennifer Lopez - Save Me Tonight|<a id="202603_5" href="#202603_5">2026, March</a>|
 |[<img src="https://101.ru/proxy/vardata/modules/musicdb/files/202603/10/d9b4a9f374d7d01bbfc29456a383c2e9.webp?w=250&h=250&pos=center&t=1773453692" />](https://www.energyfm.ru/track/873481)|AVALAN ROKSTON - Vertigo|<a id="202603_4" href="#202603_4">2026, March</a>|
 |[<img src="https://101.ru/proxy/vardata/modules/musicdb/files/202603/10/accbcf9d5e77004d0cd9d8182ed878a5.webp?w=250&h=250&pos=center&t=1774059849" />](https://www.energyfm.ru/track/873482)|ZAYN - Die For Me|<a id="202603_4" href="#202603_4">2026, March</a>|
