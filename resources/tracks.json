@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-05T03:12:38+00:00",
+ "updated": "2026-06-06T03:10:03+00:00",
  "tracks": {
   "6a4707fb": {
    "href": "https://www.energyfm.ru/track/uid/6874",
@@ -34861,6 +34861,63 @@
     "album": "spotify:album:63m5VWNfvz5GObBlhfwDEt",
     "image": "https://i.scdn.co/image/ab67616d0000b273b42a4127f86241129c32ffdb"
    }
+  },
+  "5f1a07e6": {
+   "href": "https://www.energyfm.ru/track/874704",
+   "href_artist": "https://www.energyfm.ru/artist/id/138555",
+   "artist": "KDDK",
+   "title": "Cricket Love",
+   "image": "https://101.ru/proxy/vardata/modules/musicdb/files/202605/21/cd62afa6f4c41ed989a1bc94ec43eef4.jpg?w=250&h=250&pos=center&t=1780712487",
+   "date": {
+    "year": 2026,
+    "month": 5
+   },
+   "counter": 1,
+   "sort_string": "202605_1",
+   "added": "2026-06-06T03:09:33+00:00",
+   "spotify": {
+    "track": "spotify:track:1eAkvIc4NiyvaYm4zpb9Gn",
+    "album": "spotify:album:5MRWvGK52N3oEcK2CbYUWR",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d2929ba7ba67aa280b3a3643"
+   }
+  },
+  "51ac11a1": {
+   "href": "https://www.energyfm.ru/track/874638",
+   "href_artist": "https://www.energyfm.ru/artist/id/216624",
+   "artist": "By \u0418\u043d\u0434\u0438\u044f",
+   "title": "\u0428\u0430\u0434\u044d",
+   "image": "https://101.ru/proxy/vardata/modules/musicdb/files/202605/20/39a25b563f3653c41ff7af8cff8af342.jpg?w=250&h=250&pos=center&t=1780711843",
+   "date": {
+    "year": 2026,
+    "month": 5
+   },
+   "counter": 2,
+   "sort_string": "202605_2",
+   "added": "2026-06-06T03:09:33+00:00",
+   "spotify": {
+    "track": "spotify:track:6GiiGC1f90eZdYwyg0NEJl",
+    "album": "spotify:album:6DBQO6xPJEwKISFHrlYkjI",
+    "image": "https://i.scdn.co/image/ab67616d0000b2734c2467ff30230a7e7307aaca"
+   }
+  },
+  "a757282c": {
+   "href": "https://www.energyfm.ru/track/874703",
+   "href_artist": "https://www.energyfm.ru/artist/id/52943",
+   "artist": "Filatov & Karas",
+   "title": "\u0421\u0440\u0435\u0434\u0438 \u0421\u0447\u0430\u0441\u0442\u043b\u0438\u0432\u044b\u0445 \u041b\u044e\u0434\u0435\u0439",
+   "image": "https://101.ru/proxy/vardata/modules/musicdb/files/202605/22/a9bcef83903e010bbd2c7409c96d53c3.jpg?w=250&h=250&pos=center&t=1780714546",
+   "date": {
+    "year": 2026,
+    "month": 5
+   },
+   "counter": 3,
+   "sort_string": "202605_3",
+   "added": "2026-06-06T03:09:33+00:00",
+   "spotify": {
+    "track": "spotify:track:41X58MJ5Q2jEJF3CSP9rsa",
+    "album": "spotify:album:55cZzHzyag0a1mGclbRnBt",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a4b8cb3c0a5ec8cfe7f82c8b"
+   }
   }
  },
  "sandbox": {
@@ -34868,7 +34925,7 @@
   "has_new_tracks": true,
   "finished": "2021-07-23T09:00:18+00:00",
   "page": 1,
-  "partly_parsed": "2026-06-05T03:12:06+00:00",
+  "partly_parsed": "2026-06-06T03:09:33+00:00",
   "last_exit_clean": false
  }
 }
