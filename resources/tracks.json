@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-26T03:11:51+00:00",
+ "updated": "2026-06-27T03:10:00+00:00",
  "tracks": {
   "6a4707fb": {
    "href": "https://www.energyfm.ru/track/uid/6874",
@@ -34975,6 +34975,44 @@
     "album": "spotify:album:2eeufspLkAubwTJfOGSrI8",
     "image": "https://i.scdn.co/image/ab67616d0000b27303cadf1b3fe324c1dc710ed4"
    }
+  },
+  "b3c80ab0": {
+   "href": "https://www.energyfm.ru/track/875024",
+   "href_artist": "https://www.energyfm.ru/artist/id/40656",
+   "artist": "Lady GaGa",
+   "title": "Shape of a Woman",
+   "image": "https://101.ru/proxy/vardata/modules/musicdb/files/202606/23/82debac1e6c8d92a597330be29e032ea.jpg?w=250&h=250&pos=center&t=1782528795",
+   "date": {
+    "year": 2026,
+    "month": 6
+   },
+   "counter": 1,
+   "sort_string": "202606_1",
+   "added": "2026-06-27T03:09:34+00:00",
+   "spotify": {
+    "track": "spotify:track:6aFsbhzye4yfT25ohmhOQY",
+    "album": "spotify:album:5FKnRUB5lt7z5ac1lmu3BE",
+    "image": "https://i.scdn.co/image/ab67616d0000b273973cd0eba9aa4d0ce3b08228"
+   }
+  },
+  "8d3609b6": {
+   "href": "https://www.energyfm.ru/track/874942",
+   "href_artist": "https://www.energyfm.ru/artist/id/54147",
+   "artist": "Calvin Harris",
+   "title": "Satisfy",
+   "image": "https://101.ru/proxy/vardata/modules/musicdb/files/202606/23/a00ea760296886590d566a0f9ac12fd6.jpg?w=250&h=250&pos=center&t=1782526784",
+   "date": {
+    "year": 2026,
+    "month": 6
+   },
+   "counter": 2,
+   "sort_string": "202606_2",
+   "added": "2026-06-27T03:09:34+00:00",
+   "spotify": {
+    "track": "spotify:track:3AsOa3cNh8bqF4q1temSHE",
+    "album": "spotify:album:55aZFGWITREqVoI2iy45Bd",
+    "image": "https://i.scdn.co/image/ab67616d0000b2735958dec5acf1c3dc8b355d50"
+   }
   }
  },
  "sandbox": {
@@ -34982,7 +35020,7 @@
   "has_new_tracks": true,
   "finished": "2021-07-23T09:00:18+00:00",
   "page": 1,
-  "partly_parsed": "2026-06-26T03:11:16+00:00",
+  "partly_parsed": "2026-06-27T03:09:34+00:00",
   "last_exit_clean": false
  }
 }
