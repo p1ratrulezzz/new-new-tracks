@@ -1,5 +1,5 @@
 {
- "updated": "2026-06-29T03:13:37+00:00",
+ "updated": "2026-06-30T03:10:58+00:00",
  "tracks": {
   "6a4707fb": {
    "href": "https://www.energyfm.ru/track/uid/6874",
@@ -35013,6 +35013,25 @@
     "album": "spotify:album:55aZFGWITREqVoI2iy45Bd",
     "image": "https://i.scdn.co/image/ab67616d0000b2735958dec5acf1c3dc8b355d50"
    }
+  },
+  "95b309cc": {
+   "href": "https://www.energyfm.ru/track/874941",
+   "href_artist": "https://www.energyfm.ru/artist/id/48642",
+   "artist": "Hugel",
+   "title": "Movin' To The Sun",
+   "image": "https://101.ru/proxy/vardata/modules/musicdb/files/202606/23/3bdd98e81ac86982c37fd207955a538f.jpg?w=250&h=250&pos=center&t=1782785690",
+   "date": {
+    "year": 2026,
+    "month": 6
+   },
+   "counter": 1,
+   "sort_string": "202606_1",
+   "added": "2026-06-30T03:10:31+00:00",
+   "spotify": {
+    "track": "spotify:track:25DgjoTlKK8KjstM4cZ8L2",
+    "album": "spotify:album:7sCzauzbInQn7NEsvTAtqq",
+    "image": "https://i.scdn.co/image/ab67616d0000b27384b3a5e824d76fc3b4dbe492"
+   }
   }
  },
  "sandbox": {
@@ -35020,7 +35039,7 @@
   "has_new_tracks": true,
   "finished": "2021-07-23T09:00:18+00:00",
   "page": 1,
-  "partly_parsed": "2026-06-29T03:13:05+00:00",
+  "partly_parsed": "2026-06-30T03:10:31+00:00",
   "last_exit_clean": false
  }
 }
