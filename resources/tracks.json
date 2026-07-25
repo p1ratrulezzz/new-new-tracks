@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-24T03:05:54+00:00",
+ "updated": "2026-07-25T03:05:27+00:00",
  "tracks": {
   "6a4707fb": {
    "href": "https://www.energyfm.ru/track/uid/6874",
@@ -35108,6 +35108,44 @@
     "album": "spotify:album:3TFX3h1hQwlkMoQ0ZCH16W",
     "image": "https://i.scdn.co/image/ab67616d0000b273dcdbf2ecca775e697db224ac"
    }
+  },
+  "6a100842": {
+   "href": "https://www.energyfm.ru/track/875126",
+   "href_artist": "https://www.energyfm.ru/artist/id/240199",
+   "artist": "The Bausa",
+   "title": "Magnetic",
+   "image": "https://101.ru/proxy/vardata/modules/musicdb/files/202606/24/342a669fb8a28220c69bee7712404098.jpg?w=250&h=250&pos=center&t=1784948369",
+   "date": {
+    "year": 2026,
+    "month": 6
+   },
+   "counter": 1,
+   "sort_string": "202606_1",
+   "added": "2026-07-25T03:04:50+00:00",
+   "spotify": {
+    "track": "spotify:track:4hFDFmMnSYZ32ssqNUOCjt",
+    "album": "spotify:album:5spP5OwikL076tVBuw7gb8",
+    "image": "https://i.scdn.co/image/ab67616d0000b273158cbe80b9b9573b46d2b50f"
+   }
+  },
+  "4a93070a": {
+   "href": "https://www.energyfm.ru/track/875429",
+   "href_artist": "https://www.energyfm.ru/artist/id/61439",
+   "artist": "Merk",
+   "title": "Partenope",
+   "image": "https://101.ru/proxy/vardata/modules/musicdb/files/202606/26/713fbb5b5f52c4df2d26ff7662bd8c25.webp?w=250&h=250&pos=center&t=1784944991",
+   "date": {
+    "year": 2026,
+    "month": 6
+   },
+   "counter": 2,
+   "sort_string": "202606_2",
+   "added": "2026-07-25T03:04:50+00:00",
+   "spotify": {
+    "track": "spotify:track:7lwRULBv1wRCY4sTBHOUNy",
+    "album": "spotify:album:18YymC6IWBNcNo46Qe8r50",
+    "image": "https://i.scdn.co/image/ab67616d0000b27381e9c6bfc08d4a1e56a38400"
+   }
   }
  },
  "sandbox": {
@@ -35115,7 +35153,7 @@
   "has_new_tracks": true,
   "finished": "2021-07-23T09:00:18+00:00",
   "page": 1,
-  "partly_parsed": "2026-07-24T03:05:18+00:00",
+  "partly_parsed": "2026-07-25T03:04:50+00:00",
   "last_exit_clean": false
  }
 }
