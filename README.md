@@ -21,6 +21,7 @@ The new tracks are also available on https://www.energyfm.ru/new_tracks
 |---|--------|---|
 |[<img src="/design/images/spacer.gif" />](https://www.energyfm.ru/track/uid/7498)|KEYLASH - Tonight|<a id="3" href="#3">2022, September</a>|
 |[<img src="https://101.ru/proxy/vardata/modules/musicdb/files/202607/29/91ca7ac96626b9945cc5fab1728a44b7.png?w=250&h=250&pos=center&t=1786156470" />](https://www.energyfm.ru/track/875841)|Joel Corry - Whisper|<a id="202607_1" href="#202607_1">2026, July</a>|
+|[<img src="https://101.ru/proxy/vardata/modules/musicdb/files/202607/30/f5c80ce35f3f9ada38c8cbfb649f3974.webp?w=250&h=250&pos=center&t=1786759862" />](https://www.energyfm.ru/track/875845)|AVE - Meet Me In The Dark|<a id="202607_1" href="#202607_1">2026, July</a>|
 |[<img src="https://101.ru/proxy/vardata/modules/musicdb/files/202606/23/a00ea760296886590d566a0f9ac12fd6.jpg?w=250&h=250&pos=center&t=1782526784" />](https://www.energyfm.ru/track/874942)|Calvin Harris - Satisfy|<a id="202606_2" href="#202606_2">2026, June</a>|
 |[<img src="https://101.ru/proxy/vardata/modules/musicdb/files/202606/24/f1e6043f904618e0c59107417180574b.jpg?w=250&h=250&pos=center&t=1783479589" />](https://www.energyfm.ru/track/875145)|Ava Max - Energy|<a id="202606_2" href="#202606_2">2026, June</a>|
 |[<img src="https://101.ru/proxy/vardata/modules/musicdb/files/202606/26/f93d7b480772fb044756240f0659a4d4.webp?w=250&h=250&pos=center&t=1784343340" />](https://www.energyfm.ru/track/875427)|Diplo - Two Steppin’|<a id="202606_2" href="#202606_2">2026, June</a>|
