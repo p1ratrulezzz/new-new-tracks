@@ -20,8 +20,11 @@ The new tracks are also available on https://www.energyfm.ru/new_tracks
 ||Track|Date|
 |---|--------|---|
 |[<img src="/design/images/spacer.gif" />](https://www.energyfm.ru/track/uid/7498)|KEYLASH - Tonight|<a id="3" href="#3">2022, September</a>|
+|[<img src="https://101.ru/proxy/vardata/modules/musicdb/files/202608/34/4a9d192aff58c564d9049a165f34b4d2.webp?w=250&h=250&pos=center&t=1787989263" />](https://www.energyfm.ru/track/876370)|Zerb - Fast Friends|<a id="202608_3" href="#202608_3">2026, August</a>|
 |[<img src="https://101.ru/proxy/vardata/modules/musicdb/files/202608/32/1c3e95ecc3cb65bf6ef401e0ab0ee0b8.png?w=250&h=250&pos=center&t=1787363489" />](https://www.energyfm.ru/track/875463)|Hugel - Shine|<a id="202608_2" href="#202608_2">2026, August</a>|
+|[<img src="https://101.ru/proxy/vardata/modules/musicdb/files/202608/34/1fab4d393e7dd7cb248f811a2a6d3f52.webp?w=250&h=250&pos=center&t=1787992354" />](https://www.energyfm.ru/track/876246)|FAST BOY - Music Sounds|<a id="202608_2" href="#202608_2">2026, August</a>|
 |[<img src="https://101.ru/proxy/vardata/modules/musicdb/files/202608/32/9828ef652fc037188d39cbdf63d224bc.webp?w=250&h=250&pos=center&t=1787367110" />](https://www.energyfm.ru/track/876062)|KATSEYE - Animal|<a id="202608_1" href="#202608_1">2026, August</a>|
+|[<img src="https://101.ru/proxy/vardata/modules/musicdb/files/202608/34/29aac7f2bbff1bc77fecebc2733d97b7.webp?w=250&h=250&pos=center&t=1787992215" />](https://www.energyfm.ru/track/876371)|Bea Miller - drunk enough|<a id="202608_1" href="#202608_1">2026, August</a>|
 |[<img src="https://101.ru/proxy/vardata/modules/musicdb/files/202607/30/a80016507bdb5cddac5bcf13ad212dfa.webp?w=250&h=250&pos=center&t=1787363489" />](https://www.energyfm.ru/track/875906)|Alok - Everything's Fine (PM)|<a id="202607_3" href="#202607_3">2026, July</a>|
 |[<img src="https://101.ru/proxy/vardata/modules/musicdb/files/202607/29/91ca7ac96626b9945cc5fab1728a44b7.png?w=250&h=250&pos=center&t=1786156470" />](https://www.energyfm.ru/track/875841)|Joel Corry - Whisper|<a id="202607_1" href="#202607_1">2026, July</a>|
 |[<img src="https://101.ru/proxy/vardata/modules/musicdb/files/202607/30/f5c80ce35f3f9ada38c8cbfb649f3974.webp?w=250&h=250&pos=center&t=1786759862" />](https://www.energyfm.ru/track/875845)|AVE - Meet Me In The Dark|<a id="202607_1" href="#202607_1">2026, July</a>|
