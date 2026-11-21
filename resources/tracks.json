@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T09:42:14+00:00",
+ "updated": "2026-11-21T09:13:46+00:00",
  "tracks": {
   "6a4707fb": {
    "href": "https://www.energyfm.ru/track/uid/6874",
@@ -35819,6 +35819,120 @@
     "album": "spotify:album:6prMnt4ighpUNRRqJU9Ofz",
     "image": "https://i.scdn.co/image/ab67616d0000b2732ec24e9a3c1ab63888e47f50"
    }
+  },
+  "489a11bf": {
+   "href": "https://www.energyfm.ru/track/878470",
+   "href_artist": "https://www.energyfm.ru/artist/id/56587",
+   "artist": "ZIVERT",
+   "title": "\u043d\u0435 \u0441\u0432\u044f\u0442\u0430\u044f",
+   "image": "https://101.ru/proxy/vardata/modules/musicdb/files/202611/47/cd7d3ccc49beb1292aacecbf06d05185.webp?w=250&h=250&pos=center&t=1795250116",
+   "date": {
+    "year": 2026,
+    "month": 11
+   },
+   "counter": 1,
+   "sort_string": "202611_1",
+   "added": "2026-11-21T09:13:13+00:00",
+   "spotify": {
+    "track": "spotify:track:5Dl174yp8HEJTNUWYidxaF",
+    "album": "spotify:album:6duXPEG4KMMA4hwBAHQyzj",
+    "image": "https://i.scdn.co/image/ab67616d0000b2731eeff6672be4be90289457b2"
+   }
+  },
+  "e2ff0c6c": {
+   "href": "https://www.energyfm.ru/track/877582",
+   "href_artist": "https://www.energyfm.ru/artist/id/2223",
+   "artist": "Justice",
+   "title": "Flower In A Hurricane",
+   "image": "https://101.ru/proxy/vardata/modules/musicdb/files/202611/45/37655a4f2bc9ba6bc968b63f82a6e431.webp?w=250&h=250&pos=center&t=1795252175",
+   "date": {
+    "year": 2026,
+    "month": 11
+   },
+   "counter": 2,
+   "sort_string": "202611_2",
+   "added": "2026-11-21T09:13:13+00:00",
+   "spotify": {
+    "track": "spotify:track:4HCOHRCSQelz2GPX8iTamO",
+    "album": "spotify:album:1V8Qu6CwkBfYucnCWxynq8",
+    "image": "https://i.scdn.co/image/ab67616d0000b2734c4af9f49f2c276dca687ced"
+   }
+  },
+  "d4650c3e": {
+   "href": "https://www.energyfm.ru/track/877789",
+   "href_artist": "https://www.energyfm.ru/artist/id/157704",
+   "artist": "Olivia Rodrigo",
+   "title": "Expectations",
+   "image": "https://101.ru/proxy/vardata/modules/musicdb/files/202610/44/b31fe9ecc0cca6558c7375fde206162b.png?w=250&h=250&pos=center&t=1795248864",
+   "date": {
+    "year": 2026,
+    "month": 10
+   },
+   "counter": 3,
+   "sort_string": "202610_3",
+   "added": "2026-11-21T09:13:13+00:00",
+   "spotify": {
+    "track": "spotify:track:2X1tLJwzxfVVhimqlxhnMe",
+    "album": "spotify:album:1q9LM9xC5ebSY216u31FOx",
+    "image": "https://i.scdn.co/image/ab67616d0000b273706ab55cf3e8cb64efb0ccba"
+   }
+  },
+  "98780a13": {
+   "href": "https://www.energyfm.ru/track/878082",
+   "href_artist": "https://www.energyfm.ru/artist/id/50449",
+   "artist": "Kygo",
+   "title": "Before You Know It",
+   "image": "https://101.ru/proxy/vardata/modules/musicdb/files/202611/45/05007f1482befa46896659445db59efa.png?w=250&h=250&pos=center&t=1795251318",
+   "date": {
+    "year": 2026,
+    "month": 11
+   },
+   "counter": 4,
+   "sort_string": "202611_4",
+   "added": "2026-11-21T09:13:13+00:00",
+   "spotify": {
+    "track": "spotify:track:0IEKKqwiTDVh6I3M9XlrAQ",
+    "album": "spotify:album:09MFYa0kaj2G2LpRZfKUyo",
+    "image": "https://i.scdn.co/image/ab67616d0000b273b7f5ca7addb0cd2f3dc004a3"
+   }
+  },
+  "d7fb0bfd": {
+   "href": "https://www.energyfm.ru/track/877702",
+   "href_artist": "https://www.energyfm.ru/artist/id/8107",
+   "artist": "Cyndi Lauper",
+   "title": "Time After Time",
+   "image": "https://101.ru/proxy/vardata/modules/musicdb/files/202610/43/f51c6733c615d825facf2f3e8e46e35b.webp?w=250&h=250&pos=center&t=1795251844",
+   "date": {
+    "year": 2026,
+    "month": 10
+   },
+   "counter": 5,
+   "sort_string": "202610_5",
+   "added": "2026-11-21T09:13:13+00:00",
+   "spotify": {
+    "track": "spotify:track:0f9Zt37k5AnTkrGIFqhkK6",
+    "album": "spotify:album:0CTCk1eshEadFqZ4NBfe9N",
+    "image": "https://i.scdn.co/image/ab67616d0000b273bd0db295c0164ddbc0584ebb"
+   }
+  },
+  "c92b0ba1": {
+   "href": "https://www.energyfm.ru/track/877681",
+   "href_artist": "https://www.energyfm.ru/artist/id/166",
+   "artist": "Pitbull",
+   "title": "Reach For The Stars",
+   "image": "https://101.ru/proxy/vardata/modules/musicdb/files/202610/43/1cf2d33d3346f9258fd0f19cf8c4fca6.png?w=250&h=250&pos=center&t=1795250160",
+   "date": {
+    "year": 2026,
+    "month": 10
+   },
+   "counter": 6,
+   "sort_string": "202610_6",
+   "added": "2026-11-21T09:13:13+00:00",
+   "spotify": {
+    "track": "spotify:track:4KhenOsbUf96WVeAZE2jFO",
+    "album": "spotify:album:4Lkkfpt8ZkDmw4viHHi0IM",
+    "image": "https://i.scdn.co/image/ab67616d0000b273ff73af3611e973859afd1b77"
+   }
   }
  },
  "sandbox": {
@@ -35826,7 +35940,7 @@
   "has_new_tracks": true,
   "finished": "2021-07-23T09:00:18+00:00",
   "page": 1,
-  "partly_parsed": "2026-11-20T09:41:51+00:00",
+  "partly_parsed": "2026-11-21T09:13:13+00:00",
   "last_exit_clean": false
  }
 }
